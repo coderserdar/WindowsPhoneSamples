@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\Bin\Debug\NFCLinker_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="30/08/2013 16:02:56">
+  <file source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\obj\Debug\NFCLinker.dll" archivePath="NFCLinker.dll" lastWriteTime="30/08/2013 16:02:55" />
+  <file source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="30/08/2013 14:30:45" />
+  <file source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="30/08/2013 14:30:45" />
+  <file source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="30/08/2013 14:30:45" />
+  <file source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="30/08/2013 14:30:45" />
+  <file source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="30/08/2013 14:30:45" />
+  <file source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="30/08/2013 14:30:55" />
+  <file source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="30/08/2013 14:30:45" />
+  <file source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="30/08/2013 14:30:45" />
+  <file source="C:\Users\rob\Desktop\final\NFCLinker\NFCLinker\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="30/08/2013 14:58:22" />
+</xapCache>

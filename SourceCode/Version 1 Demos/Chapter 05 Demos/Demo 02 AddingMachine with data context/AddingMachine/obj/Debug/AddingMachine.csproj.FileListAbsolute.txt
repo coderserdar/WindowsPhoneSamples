@@ -1,0 +1,38 @@
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\Bin\Debug\AddingMachine_Debug_AnyCPU.xap
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\obj\Debug\App.g.cs
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\obj\Debug\MainPage.g.cs
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\obj\Debug\AddingMachine.Resources.AppResources.resources
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\obj\Debug\AddingMachine.csproj.GenerateResource.Cache
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\rob\Desktop\final\AddingMachine\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\obj\Debug\App.g.cs
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\Bin\Debug\AddingMachine_Debug_AnyCPU.xap
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\obj\Debug\MainPage.g.cs
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\obj\Debug\AddingMachine.Resources.AppResources.resources
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\obj\Debug\AddingMachine.csproj.GenerateResource.Cache
+C:\Users\rob\Desktop\final\AddingMachine - Copyx\AddingMachine\obj\Debug\XapCacheFile.xml

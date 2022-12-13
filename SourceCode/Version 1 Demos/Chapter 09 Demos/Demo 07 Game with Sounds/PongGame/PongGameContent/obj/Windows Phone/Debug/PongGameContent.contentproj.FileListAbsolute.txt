@@ -1,0 +1,5 @@
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 07 Game with Sounds\PongGame\PongGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 07 Game with Sounds\PongGame\PongGameContent\obj\Windows Phone\Debug\PongGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 07 Game with Sounds\PongGame\PongGameContent\obj\Windows Phone\Debug\PongGameContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+﻿<xapCache source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\Bin\Debug\QuickReminder_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="23/08/2013 12:39:20">
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\obj\Debug\QuickReminder.dll" archivePath="QuickReminder.dll" lastWriteTime="23/08/2013 12:39:19" />
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="23/08/2013 11:55:07" />
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="23/08/2013 11:55:07" />
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="23/08/2013 11:55:07" />
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="23/08/2013 11:55:07" />
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="23/08/2013 11:55:07" />
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\VoiceCommandDefinition.xml" archivePath="VoiceCommandDefinition.xml" lastWriteTime="23/08/2013 12:39:18" />
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="23/08/2013 11:55:14" />
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="23/08/2013 11:55:07" />
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="23/08/2013 11:55:07" />
+  <file source="C:\Users\rob\Desktop\final\QuickReminder\QuickReminder\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="23/08/2013 12:20:25" />
+</xapCache>

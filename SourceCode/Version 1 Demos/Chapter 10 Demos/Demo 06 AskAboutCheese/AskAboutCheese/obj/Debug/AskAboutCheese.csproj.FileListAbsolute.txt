@@ -1,0 +1,57 @@
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\AskAboutCheese.dll
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\AskAboutCheese.pdb
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\AppManifest.xaml
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\Bin\Debug\AskAboutCheese_Debug_AnyCPU.xap
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\obj\Debug\App.g.cs
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\obj\Debug\MainPage.g.cs
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.g.resources
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.Resources.AppResources.resources
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.csproj.GenerateResource.Cache
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.dll
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.pdb
+c:\users\rob\documents\visual studio 2012\Projects\AskAboutCheese\AskAboutCheese\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\AskAboutCheese.dll
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\AskAboutCheese.pdb
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\Bin\Debug\AskAboutCheese_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.g.resources
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.Resources.AppResources.resources
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.csproj.GenerateResource.Cache
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.dll
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.pdb
+C:\Users\rob\SkyDrive\2012-2013 Year\Presentations\TechED us\Final Speech Demos\Demo 04 AskAboutCheese\AskAboutCheese\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\AskAboutCheese.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\AskAboutCheese.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\Bin\Debug\AskAboutCheese_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.Resources.AppResources.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.csproj.GenerateResource.Cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\obj\Debug\AskAboutCheese.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 09 Demos\Demo 06 AskAboutCheese\AskAboutCheese\obj\Debug\XapCacheFile.xml

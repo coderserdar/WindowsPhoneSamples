@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SON16217</Machine>
+    <WindowsUser>malleswara.gr</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>185d1423-d22f-4c81-9e37-40f1fdeb8b37</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D0AAAB192C075771712945C9F953B3046BB358008AB07CBFFFA9A49A1030855A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>185d1423-d22f-4c81-9e37-40f1fdeb8b37_1.0.0.0_neutral__7x9wbxwtgs4cc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>185d1423-d22f-4c81-9e37-40f1fdeb8b37_7x9wbxwtgs4cc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>185d1423-d22f-4c81-9e37-40f1fdeb8b37</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=malleswara.gr</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-23T10:21:39.689</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\bin\Debug\Globalization.Windows.exe">
+      <PackagePath>Globalization.Windows.exe</PackagePath>
+      <Modified>2014-04-23T13:14:07.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:24:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:24:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:24:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:24:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-04-23T10:11:13.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-22T13:42:55.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\bin\Debug\DynamicLanguagePage.xbf">
+      <PackagePath>DynamicLanguagePage.xbf</PackagePath>
+      <Modified>2014-04-23T10:39:25.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-04-22T15:35:20.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\bin\Debug\StaticLanguagePage.xbf">
+      <PackagePath>StaticLanguagePage.xbf</PackagePath>
+      <Modified>2014-04-23T10:39:25.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\bin\Debug\Globalization.Windows.xr.xml">
+      <PackagePath>Globalization.Windows.xr.xml</PackagePath>
+      <Modified>2014-04-23T10:33:01.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\malleswara.gr\documents\visual studio 2013\Projects\Globalization\Globalization\Globalization.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-23T10:21:39.620</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

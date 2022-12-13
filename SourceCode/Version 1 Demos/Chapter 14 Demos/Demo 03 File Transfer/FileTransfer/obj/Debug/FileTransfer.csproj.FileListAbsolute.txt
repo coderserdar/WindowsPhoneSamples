@@ -1,0 +1,39 @@
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\Bin\Debug\FileTransfer.dll
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\Bin\Debug\FileTransfer.pdb
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\Bin\Debug\FileTransfer.xap
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\obj\Debug\FileTransfer.g.resources
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\obj\Debug\FileTransfer.dll
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\obj\Debug\FileTransfer.pdb
+C:\Users\Rob\Desktop\FileTransfer\FileTransfer\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\Bin\Debug\FileTransfer.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\Bin\Debug\FileTransfer.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\Bin\Debug\FileTransfer.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\obj\Debug\FileTransfer.g.resources
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\obj\Debug\FileTransfer.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\obj\Debug\FileTransfer.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 05 File Transfer\FileTransfer\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\Bin\Debug\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\Bin\Debug\Background.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\Bin\Debug\FileTransfer.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\Bin\Debug\FileTransfer.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\Bin\Debug\FileTransfer_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\obj\Debug\FileTransfer.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\obj\Debug\FileTransfer.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\obj\Debug\FileTransfer.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 03 File Transfer\FileTransfer\obj\Debug\XapCacheFile.xml

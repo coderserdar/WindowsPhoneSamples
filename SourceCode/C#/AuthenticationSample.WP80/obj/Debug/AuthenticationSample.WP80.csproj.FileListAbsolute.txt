@@ -1,0 +1,239 @@
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\ApplicationIcon.png
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\AppManifest.xaml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Properties\WMAppManifest.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80_Debug_AnyCPU.xap
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\App.g.cs
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.g.resources
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.Resources.AppResources.resources
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.csproj.GenerateResource.Cache
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\XapCacheFile.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\Views\AboutView.g.cs
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\Views\LoginView.g.cs
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\Views\MainView.g.cs
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80.dll.config
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Background.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Location.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Facebook.Client.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Facebook.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.WP8.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Core.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Oauth2.v2.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.PlatformServices.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Live.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Newtonsoft.Json.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Extensions.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Primitives.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Windows.Interactivity.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Zlib.Portable.dll
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Background.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Background.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Location.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Location.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Facebook.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Facebook.Client.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.WP8.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.WP8.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Core.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Core.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Oauth2.v2.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Oauth2.v2.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.PlatformServices.pdb
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.PlatformServices.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Newtonsoft.Json.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Extensions.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Primitives.xml
+D:\DevApps\Samples\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Zlib.Portable.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Assets\ApplicationIcon.png
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80.dll.config
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\AppManifest.xaml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Properties\WMAppManifest.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80_Debug_AnyCPU.xap
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Background.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Location.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Facebook.Client.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Facebook.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.WP8.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Core.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Oauth2.v2.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.PlatformServices.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Microsoft.Live.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Newtonsoft.Json.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Extensions.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Primitives.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\System.Windows.Interactivity.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Zlib.Portable.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Background.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Background.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Location.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Location.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Facebook.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Facebook.Client.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.WP8.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.WP8.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Core.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Core.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Oauth2.v2.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Oauth2.v2.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.PlatformServices.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Google.Apis.PlatformServices.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Newtonsoft.Json.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Extensions.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Primitives.xml
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\Bin\Debug\Zlib.Portable.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.csprojResolveAssemblyReference.cache
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\App.g.cs
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\Views\AboutView.g.cs
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\Views\LoginView.g.cs
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\Views\MainView.g.cs
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.g.resources
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.Resources.AppResources.resources
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.csproj.GenerateResource.Cache
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.dll
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.pdb
+D:\DevApps\Samples\AuthenticationSample.WP801\AuthenticationSample.WP80\obj\Debug\XapCacheFile.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.csprojResolveAssemblyReference.cache
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\App.g.cs
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\Views\AboutView.g.cs
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\Views\LoginView.g.cs
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\Views\MainView.g.cs
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.g.resources
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.Resources.AppResources.resources
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.csproj.GenerateResource.Cache
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\AuthenticationSample.WP80.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80.dll.config
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\AppManifest.xaml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\AuthenticationSample.WP80_Debug_AnyCPU.xap
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Background.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Location.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Facebook.Client.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Facebook.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.WP8.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Core.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Oauth2.v2.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Live.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Zlib.Portable.dll
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Background.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Background.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Location.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Cimbalino.Phone.Toolkit.Location.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Facebook.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Facebook.Client.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.WP8.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\GalaSoft.MvvmLight.WP8.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Core.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Oauth2.v2.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.Oauth2.v2.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\Bin\Debug\Zlib.Portable.pdb
+C:\Users\Sara Silva\Downloads\AuthenticationSample.WP80\AuthenticationSample.WP80\AuthenticationSample.WP80\obj\Debug\XapCacheFile.xml

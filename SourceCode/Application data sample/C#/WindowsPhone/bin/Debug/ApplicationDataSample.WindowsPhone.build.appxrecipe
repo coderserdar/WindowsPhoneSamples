@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SERDAR</Machine>
+    <WindowsUser>SerdarPC</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1B93A154-94DF-4395-BA9C-02B51BB78B44</PackageIdentityName>
+    <IntermediateOutputPath>D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\ApplicationDataSample.WindowsPhone.exe">
+      <PackagePath>ApplicationDataSample.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\assets\appDataLocal.png">
+      <PackagePath>assets\appDataLocal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\assets\appDataTemp.png">
+      <PackagePath>assets\appDataTemp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\assets\appDataRoaming.png">
+      <PackagePath>assets\appDataRoaming.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\Assets\mediumtile-sdk.png">
+      <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\Assets\smalltile-Windows-sdk.png">
+      <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\Assets\smalltile-Phone-sdk.png">
+      <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\Assets\splash-Windows-sdk.png">
+      <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\Assets\splash-Phone-sdk.png">
+      <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\Assets\squaretile-sdk.png">
+      <PackagePath>Assets\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\Assets\storelogo-sdk.png">
+      <PackagePath>Assets\storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\Shared\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\Scenario2_Settings.xbf">
+      <PackagePath>Scenario2_Settings.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\Scenario3_SettingContainer.xbf">
+      <PackagePath>Scenario3_SettingContainer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\Scenario4_CompositeSettings.xbf">
+      <PackagePath>Scenario4_CompositeSettings.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\Scenario5_DataChangedEvent.xbf">
+      <PackagePath>Scenario5_DataChangedEvent.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\Scenario6_HighPriority.xbf">
+      <PackagePath>Scenario6_HighPriority.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\Scenario7_Msappdata.xbf">
+      <PackagePath>Scenario7_Msappdata.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\Scenario8_ClearScenario.xbf">
+      <PackagePath>Scenario8_ClearScenario.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\Scenario9_SetVersion.xbf">
+      <PackagePath>Scenario9_SetVersion.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\Scenario1_Files.xbf">
+      <PackagePath>Scenario1_Files.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\ScenarioList.xbf">
+      <PackagePath>ScenarioList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\Styles\Styles.xbf">
+      <PackagePath>Styles\Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\ApplicationDataSample.WindowsPhone.xr.xml">
+      <PackagePath>ApplicationDataSample.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Application data sample\C#\WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

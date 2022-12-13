@@ -1,0 +1,28 @@
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\CaptainsLog.dll
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\CaptainsLog.pdb
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\CaptainsLog.xap
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\LogPage.g.i.cs
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\CaptainsLog.g.resources
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\CaptainsLog.dll
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\CaptainsLog.pdb
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\Background.png
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\CaptainsLog.dll
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\CaptainsLog.pdb
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\CaptainsLog.xap
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\App.g.i.cs
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\LogPage.g.i.cs
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\CaptainsLog.g.resources
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\CaptainsLog.dll
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\CaptainsLog.pdb
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\XapCacheFile.xml

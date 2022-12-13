@@ -1,0 +1,125 @@
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\CaptainsLog.dll
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\CaptainsLog.pdb
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\Bin\Debug\CaptainsLog.xap
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\LogPage.g.i.cs
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\CaptainsLog.g.resources
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\CaptainsLog.dll
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\CaptainsLog.pdb
+C:\Users\Rob\Desktop\CaptainsLog\CaptainsLog\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\Background.png
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\CaptainsLog.dll
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\CaptainsLog.pdb
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\Bin\Debug\CaptainsLog.xap
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\App.g.i.cs
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\LogPage.g.i.cs
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\CaptainsLog.g.resources
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\CaptainsLog.dll
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\CaptainsLog.pdb
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\05 Fast Application Switching\Complete Captains Log\CaptainsLog\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\Bin\Debug\CaptainsLog.dll
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\Bin\Debug\CaptainsLog.pdb
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\Bin\Debug\CaptainsLog.xap
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\obj\Debug\LogPage.g.i.cs
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\obj\Debug\CaptainsLog.g.resources
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\obj\Debug\CaptainsLog.dll
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\obj\Debug\CaptainsLog.pdb
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\Bin\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\CaptainsLog\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\Background.png
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\CaptainsLog.dll
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\CaptainsLog.pdb
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\CaptainsLog.xap
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\App.g.i.cs
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\LogPage.g.i.cs
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\CaptainsLog.g.resources
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\CaptainsLog.dll
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\CaptainsLog.pdb
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\Background.png
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\CaptainsLog.dll
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\CaptainsLog.pdb
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\CaptainsLog.xap
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\App.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\LogPage.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\CaptainsLog.g.resources
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\CaptainsLog.dll
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\CaptainsLog.pdb
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\CaptainsLog\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\Bin\Debug\CaptainsLog.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\Bin\Debug\CaptainsLog.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\Bin\Debug\CaptainsLog.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\Bin\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\obj\Debug\LogPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\obj\Debug\CaptainsLog.g.resources
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\obj\Debug\CaptainsLog.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\obj\Debug\CaptainsLog.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\CaptainsLog\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\Bin\Debug\CaptainsLog.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\Bin\Debug\CaptainsLog.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\Bin\Debug\CaptainsLog.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\Bin\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\obj\Debug\LogPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\obj\Debug\CaptainsLog.g.resources
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\obj\Debug\CaptainsLog.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\obj\Debug\CaptainsLog.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\CaptainsLog\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\Bin\Debug\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\Bin\Debug\Background.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\Bin\Debug\CaptainsLog.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\Bin\Debug\CaptainsLog.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\Bin\Debug\CaptainsLog_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\Bin\Debug\LocationTaskAgent.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\obj\Debug\CaptainsLog.csprojResolveAssemblyReference.cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\obj\Debug\LogPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\obj\Debug\CaptainsLog.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\obj\Debug\CaptainsLog.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\obj\Debug\CaptainsLog.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\CaptainsLog\obj\Debug\XapCacheFile.xml

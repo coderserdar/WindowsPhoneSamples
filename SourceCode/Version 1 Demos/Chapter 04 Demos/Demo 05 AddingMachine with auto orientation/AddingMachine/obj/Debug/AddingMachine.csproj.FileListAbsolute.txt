@@ -1,0 +1,59 @@
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\obj\Debug\App.g.cs
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\obj\Debug\MainPage.g.cs
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\obj\Debug\AddingMachine.Resources.AppResources.resources
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\obj\Debug\AddingMachine.csproj.GenerateResource.Cache
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\AddingMachine_Debug_AnyCPU.xap
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\AddingGears.jpg
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\AddingGears.jpg
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\Bin\Debug\AddingMachine_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\obj\Debug\AddingMachine.Resources.AppResources.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\obj\Debug\AddingMachine.csproj.GenerateResource.Cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 04 AddingMachine with no button\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\Bin\Debug\AddingMachine_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\obj\Debug\AddingMachine.Resources.AppResources.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\obj\Debug\AddingMachine.csproj.GenerateResource.Cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 05 AddingMachine with auto orientation\AddingMachine\obj\Debug\XapCacheFile.xml

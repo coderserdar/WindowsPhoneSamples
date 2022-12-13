@@ -1,0 +1,130 @@
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\Bin\Debug\ApplicationIcon.png
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\Bin\Debug\Background.png
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.dll
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.pdb
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\Bin\Debug\AppManifest.xaml
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.xap
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\obj\Debug\App.g.cs
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\obj\Debug\MainPage.g.cs
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\obj\Debug\AddingMachine.g.resources
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\obj\Debug\AddingMachine.dll
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
+c:\users\rob\documents\visual studio 2010\Projects\AddingMachine\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\Bin\Debug\Background.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.xap
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\obj\Debug\App.g.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\obj\Debug\MainPage.g.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\1 Platform Overview\AddingMachine\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\Background.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AddingMachine.xap
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\App.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\2 Introduction to Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\Background.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AddingMachine.xap
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\App.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\Bin\Debug\Background.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\Bin\Debug\AddingMachine.xap
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\obj\Debug\App.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 02 AddingMachine with MessageBox\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\Bin\Debug\Background.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\Bin\Debug\AddingMachine.xap
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\obj\Debug\App.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 05 AddingMachine with no button\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\Background.png
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\AddingMachine.xap
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\App.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\4 User Interface Design with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\Bin\Debug\AddingMachine.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 06 AddingMachine with data binding\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\Bin\Debug\AddingMachine.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 08 AddingMachine with StackPanel\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\Bin\Debug\Background.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\Bin\Debug\AddingMachine_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 06 AddingMachine with StackPanel\AddingMachine\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SERDAR</Machine>
+    <WindowsUser>SerdarPC</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e5d78736-8d1d-4aa2-9dc4-811e43aa7e8f</PackageIdentityName>
+    <IntermediateOutputPath>D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\bin\Debug\Globalization.WindowsPhone.exe">
+      <PackagePath>Globalization.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\bin\Debug\DynamicLanguagePage.xbf">
+      <PackagePath>DynamicLanguagePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\bin\Debug\StaticLanaguagePage.xbf">
+      <PackagePath>StaticLanaguagePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\bin\Debug\Globalization.WindowsPhone.xr.xml">
+      <PackagePath>Globalization.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

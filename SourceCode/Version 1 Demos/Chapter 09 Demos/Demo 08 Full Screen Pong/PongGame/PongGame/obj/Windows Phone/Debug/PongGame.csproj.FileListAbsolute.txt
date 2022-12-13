@@ -1,0 +1,102 @@
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\Content\WhiteDot.xnb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\Content\ball.xnb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\Content\lpaddle.xnb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\Content\rpaddle.xnb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\bin\Windows Phone\Debug\Content\ball.xnb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\bin\Windows Phone\Debug\Content\lpaddle.xnb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\bin\Windows Phone\Debug\Content\rpaddle.xnb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\bin\Windows Phone\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Users\Rob\Documents\My Dropbox\WP7 Curriculum\6 XNA Overview\Demos\Demo 05 Complete Game\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\bin\Windows Phone\Debug\Content\ball.xnb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\bin\Windows Phone\Debug\Content\lpaddle.xnb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\bin\Windows Phone\Debug\Content\rpaddle.xnb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\bin\Windows Phone\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 05 Complete Pong Game\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\ball.xnb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\lpaddle.xnb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\rpaddle.xnb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\ball.xnb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\lpaddle.xnb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\rpaddle.xnb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\MessageFont.xnb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 08 Demos\Demo 09 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\ball.xnb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\lpaddle.xnb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\rpaddle.xnb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\Content\MessageFont.xnb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.csprojResolveAssemblyReference.cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\New Chapter 08 Demos\Demo 08 Full Screen Pong\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml

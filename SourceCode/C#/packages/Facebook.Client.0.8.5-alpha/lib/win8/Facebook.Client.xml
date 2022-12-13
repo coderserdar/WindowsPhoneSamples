@@ -1,0 +1,1251 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Facebook.Client</name>
+    </assembly>
+    <members>
+        <member name="T:Facebook.Client.Controls.BooleanToVisibilityConverter">
+            <summary>
+            Translates boolean values to Visibility constants.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.BooleanToVisibilityConverter.Convert(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Converts a boolean value to a Visibility constant.
+            </summary>
+            <param name="value">The source data being passed to the target.</param>
+            <param name="targetType">The type to convert to.</param>
+            <param name="parameter">Unused.</param>
+            <param name="language">The culture to use in the converter (unused).</param>
+            <returns>A Visibility constant.</returns>
+        </member>
+        <member name="M:Facebook.Client.Controls.BooleanToVisibilityConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Not implemented.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.BooleanToVisibilityConverter.IsReversed">
+            <summary>
+            Set to true to convert true to Collapsed and false to Visible.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.ColorLuminosityConverter">
+            <summary>
+            Adjusts the color of a brush changing its luminosity by a given factor.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.ColorLuminosityConverter.Convert(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Converts the color of the supplied brush changing its luminosity by the given factor.
+            </summary>
+            <param name="value">The value that is produced by the binding target.</param>
+            <param name="targetType">The type to convert to.</param>
+            <param name="parameter">The factor used to adjust the luminosity (0..1).</param>
+            <param name="language">The culture to use in the converter (unused).</param>
+            <returns>A converted value.</returns>
+        </member>
+        <member name="M:Facebook.Client.Controls.ColorLuminosityConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Not implemented.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.HlsColor">
+            <summary>
+            Describes a color in terms of hue, lightness, and saturation (HLS).
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.HlsColor.FromRgb(Windows.UI.Color)">
+            <summary>
+            Converts a color described in terms of alpha, red, green and blue channels (RGB) to 
+            its equivalent HLS Color.
+            </summary>
+            <param name="rgbColor">The RGB color to convert.</param>
+            <returns>An equivalent HLS Color.</returns>
+        </member>
+        <member name="M:Facebook.Client.Controls.HlsColor.ToRgb">
+            <summary>
+            Returns an equivalent color described in terms of alpha, red, green and blue channels (RGB).
+            </summary>
+            <returns>An equivalent Color (RGB).</returns>
+        </member>
+        <member name="T:Facebook.Client.Controls.IsNullOrEmptyConverter">
+            <summary>
+            Checks if a value is null or empty.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.IsNullOrEmptyConverter.Convert(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Checks if a value is null or empty.
+            </summary>
+            <param name="value">The value that is produced by the binding target.</param>
+            <param name="targetType">The type to convert to.</param>
+            <param name="parameter">Set to True to indicate that the return value should be negated.</param>
+            <param name="language">The culture to use in the converter (unused).</param>
+            <returns>True if the value is null or empty.</returns>
+        </member>
+        <member name="M:Facebook.Client.Controls.IsNullOrEmptyConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Not implemented.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.ParameterizedConverter">
+            <summary>
+            Wraps a value converter allowing the converter parameters to be bound.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.ParameterizedConverter.Convert(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Delegates to a wrapped value converter providing it with the bound converter parameter.
+            </summary>
+            <param name="value">The source data being passed to the target.</param>
+            <param name="targetType">The type to convert to.</param>
+            <param name="parameter">Unused.</param>
+            <param name="language">The culture to use in the converter (unused).</param>
+            <returns>The value returned by the wrapped value converter.</returns>
+        </member>
+        <member name="M:Facebook.Client.Controls.ParameterizedConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Not implemented.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.ParameterizedConverter.ConverterProperty">
+            <summary>
+            Identifies the Converter dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.ParameterizedConverter.ConverterParameterProperty">
+            <summary>
+            Identifies the ConverterParameter dependency property.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.ParameterizedConverter.Converter">
+            <summary>
+            Gets or sets the converter to delegate to.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.ParameterizedConverter.ConverterParameter">
+            <summary>
+            Gets or sets the parameter to pass through to the inner value converter.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.ScaleConverter">
+            <summary>
+            Scales a value by a given factor.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.ScaleConverter.Convert(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Scales the value by a given factor.
+            </summary>
+            <param name="value">The value that is produced by the binding target.</param>
+            <param name="targetType">The type to convert to.</param>
+            <param name="parameter">The factor used to scale the value.</param>
+            <param name="language">The culture to use in the converter (unused).</param>
+            <returns>A converted value.</returns>
+        </member>
+        <member name="M:Facebook.Client.Controls.ScaleConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Not implemented.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.DataItemRetrievedEventArgs`1">
+            <summary>
+            Provides data for the DataItemRetrieved event.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.DataItemRetrievedEventArgs`1.#ctor(`0)">
+            <summary>
+            Initializes a new instance of the DataItemRetrievedEventArgs class.
+            </summary>
+            <param name="item">The item retrieved.</param>
+        </member>
+        <member name="P:Facebook.Client.Controls.DataItemRetrievedEventArgs`1.Item">
+            <summary>
+            The item retrieved.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.DataItemRetrievedEventArgs`1.Exclude">
+            <summary>
+            Controls whether the item is included in the list.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.DataReadyEventArgs`1">
+            <summary>
+            Provides data for the LoadCompleted event.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.DataReadyEventArgs`1.#ctor(System.Collections.Generic.IEnumerable{`0})">
+            <summary>
+            Initializes a new instance of the DataReadyEventArgs class.
+            </summary>
+            <param name="data">The data that was loaded.</param>
+        </member>
+        <member name="P:Facebook.Client.Controls.DataReadyEventArgs`1.Data">
+            <summary>
+            Gets the list of Facebook friends retrieved.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.EventExtensions">
+            <summary>
+            Provides extension methods to manage events.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.EventExtensions.RaiseEvent``1(System.EventHandler{``0},System.Object,``0)">
+            <summary>
+            Raises an event.
+            </summary>
+            <typeparam name="T">The type of the event data generated by the event.</typeparam>
+            <param name="handler">An instance of the event to raise.</param>
+            <param name="sender">The source of the event.</param>
+            <param name="e">An object that contains the event data.</param>
+        </member>
+        <member name="M:Facebook.Client.Controls.EventExtensions.RaiseEvent``1(System.EventHandler{``0},System.Object,``0,System.Func{``0,System.Boolean})">
+            <summary>
+            Raises an event that can be cancelled.
+            </summary>
+            <remarks>
+            The method accepts a callback parameter that is called to determine if event invocation continues. If any
+            of the event subscribers returns false, invocation stops and the method returns false.
+            </remarks>
+            <typeparam name="T">The type of the event data generated by the event.</typeparam>
+            <param name="handler">An instance of the event to raise.</param>
+            <param name="sender">The source of the event.</param>
+            <param name="e">An object that contains the event data.</param>
+            <param name="cancelInvocation">A predicate that returns true to cancel the invocation.</param>
+            <returns>False if the event has been cancelled by any of the subscribers.</returns>
+        </member>
+        <member name="T:Facebook.Client.Controls.FriendPickerDesignSupport">
+            <summary>
+            Provides design time support for the FriendPicker control.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.FriendPickerDisplayOrder">
+            <summary>
+            Specifies whether to display the first or last name first.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPickerDisplayOrder.DisplayFirstNameFirst">
+            <summary>
+            Display first name and then last name.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPickerDisplayOrder.DisplayLastNameFirst">
+            <summary>
+            Display last name and then first name.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.FriendPickerSortOrder">
+            <summary>
+            Specifies the order in which friends are listed in the friend picker.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPickerSortOrder.SortByFirstName">
+            <summary>
+            Sort the list of friends by their first name.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPickerSortOrder.SortByLastName">
+            <summary>
+            Sort the list of friends by their last name.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.LoadFailedEventArgs">
+            <summary>
+            Provides data for the LoadFailed event.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.LoadFailedEventArgs.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the LoadFailedEventArgs class.
+            </summary>
+            <param name="description">The description of the error.</param>
+            <param name="reason">The reason for the error.</param>
+        </member>
+        <member name="P:Facebook.Client.Controls.LoadFailedEventArgs.Description">
+            <summary>
+            Returns a description of the error.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.LoadFailedEventArgs.Reason">
+            <summary>
+            Returns a reason for the error.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.Audience">
+            <summary>
+            Identifies the default audience to use for sessions that post data to Facebook.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.Audience.None">
+            <summary>
+            No audience needed; this value is useful for cases where data will only be read from Facebook.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.Audience.OnlyMe">
+            <summary>
+            Indicates that only the user is able to see posts made by the application.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.Audience.Friends">
+            <summary>
+            Indicates that the user's friends are able to see posts made by the application.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.Audience.Everyone">
+            <summary>
+            Indicates that all Facebook users are able to see posts made by the application.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.AuthenticationErrorEventArgs">
+            <summary>
+            Provides data for the AuthenticationError event.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.AuthenticationErrorEventArgs.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the AuthenticationErrorEventArgs class.
+            </summary>
+            <param name="description">The description of the authentication error.</param>
+            <param name="reason">The reason for the authentication error.</param>
+        </member>
+        <member name="P:Facebook.Client.Controls.AuthenticationErrorEventArgs.Description">
+            <summary>
+            Returns a description of the error.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.AuthenticationErrorEventArgs.Reason">
+            <summary>
+            Returns a reason for the error.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.FacebookSessionState">
+            <summary>
+            Identifies the states of a Facebook session.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FacebookSessionState.Created">
+            <summary>
+            Indicates that the session has not yet been opened and has no cached token.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FacebookSessionState.CreatedTokenLoaded">
+            <summary>
+            Indicates that the session has not yet been opened and has a cached token.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FacebookSessionState.Opening">
+            <summary>
+            Indicates that the session is in the process of opening.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FacebookSessionState.Opened">
+            <summary>
+            Indicates that the session is opened.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FacebookSessionState.OpenedTokenUpdated">
+            <summary>
+            Indicates that the session is opened and that the token has changed.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FacebookSessionState.ClosedLoginFailed">
+            <summary>
+            Indicates that the session is closed, and that it was not closed normally.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FacebookSessionState.Closed">
+            <summary>
+            Indicates that the session was closed normally.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.LoginButton">
+            <summary>
+            Represents a button control that can log in or log out the user when clicked.
+            </summary>
+            <remarks>
+            The LoginButton control keeps track of the authentication status and shows an appropriate label 
+            that reflects whether the user is currently authenticated. When a user logs in, it can automatically 
+            retrieve their basic information.
+            </remarks>
+        </member>
+        <member name="M:Facebook.Client.Controls.LoginButton.#ctor">
+            <summary>
+            Initializes a new instance of the LoginButton class. 
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.LoginButton.ApplicationIdProperty">
+            <summary>
+            Identifies the ApplicationId dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.LoginButton.DefaultAudienceProperty">
+            <summary>
+            Identifies the DefaultAudience dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.LoginButton.PermissionsProperty">
+            <summary>
+            Identifies the Permissions dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.LoginButton.FetchUserInfoProperty">
+            <summary>
+            Identifies the FetchUserInfo dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.LoginButton.CurrentSessionProperty">
+            <summary>
+            Identifies the CurrentSession dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.LoginButton.CurrentUserProperty">
+            <summary>
+            Identifies the CurrentUser dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.LoginButton.CornerRadiusProperty">
+            <summary>
+            Identifies the CornerRadius dependency property.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.LoginButton.RequestNewPermissions(System.String)">
+            <summary>
+            Requests new permissions for the current Facebook session.
+            </summary>
+            <param name="permissions">The permissions to request.</param>
+        </member>
+        <member name="M:Facebook.Client.Controls.LoginButton.OnApplyTemplate">
+            <summary>
+            Invoked whenever application code or internal processes (such as a rebuilding layout pass) call ApplyTemplate. In simplest 
+            terms, this means the method is called just before a UI element displays in your app. Override this method to influence the 
+            default post-template logic of a class. 
+            </summary>
+        </member>
+        <member name="E:Facebook.Client.Controls.LoginButton.SessionStateChanged">
+            <summary>
+            Occurs whenever the status of the session associated with this control changes.
+            </summary>
+        </member>
+        <member name="E:Facebook.Client.Controls.LoginButton.AuthenticationError">
+            <summary>
+            Occurs whenever a communication or authentication error occurs while logging in.
+            </summary>
+        </member>
+        <member name="E:Facebook.Client.Controls.LoginButton.UserInfoChanged">
+            <summary>
+            Occurs whenever the current user changes.
+            </summary>
+            <remarks>
+            To retrieve the current user information, the FetchUserInfo property must be set to true.
+            </remarks>
+        </member>
+        <member name="P:Facebook.Client.Controls.LoginButton.ApplicationId">
+            <summary>
+            Gets or sets the application ID to be used to open the session.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.LoginButton.DefaultAudience">
+            <summary>
+            Gets or sets the default audience to use, if publish permissions are requested at login time.
+            </summary>
+            <remarks>
+            Certain operations such as publishing a status or publishing a photo require an audience. When the user grants an application 
+            permission to perform a publish operation, a default audience is selected as the publication ceiling for the application. This 
+            enumerated value allows the application to select which audience to ask the user to grant publish permission for.
+            </remarks>
+        </member>
+        <member name="P:Facebook.Client.Controls.LoginButton.Permissions">
+            <summary>
+            Gets or sets the permissions to request.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.LoginButton.FetchUserInfo">
+            <summary>
+            Controls whether the user information is fetched when the session is opened. Default is true.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.LoginButton.CurrentSession">
+            <summary>
+            Gets the current active session.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.LoginButton.CurrentUser">
+            <summary>
+            Gets the current logged in user.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.LoginButton.CornerRadius">
+            <summary>
+            Gets or sets a value that represents the degree to which the corners of a Border are rounded. 
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.SessionStateChangedEventArgs">
+            <summary>
+            Provides data for the SessionStateChanged event.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.SessionStateChangedEventArgs.#ctor(Facebook.Client.Controls.FacebookSessionState)">
+            <summary>
+            Initializes a new instance of the SessionStateChangedEventArgs class.
+            </summary>
+            <param name="sessionState">The current state of the Facebook session.</param>
+        </member>
+        <member name="P:Facebook.Client.Controls.SessionStateChangedEventArgs.SessionState">
+            <summary>
+            Gets the current state of the Facebook session.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.UserInfoChangedEventArgs">
+            <summary>
+            Provides data for the UserInfoChanged event.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.UserInfoChangedEventArgs.#ctor(Facebook.Client.GraphUser)">
+            <summary>
+            Initializes a new instance of the UserInfoChangedEventArgs class.
+            </summary>
+            <param name="user">The current user.</param>
+        </member>
+        <member name="P:Facebook.Client.Controls.UserInfoChangedEventArgs.User">
+            <summary>
+            Gets the current user, or null if there is no user.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.AlphaKeyGroup`1">
+            <summary>
+            Helper class that is used to convert a flat list of data into a grouped list in which the entries are grouped by a key.
+            </summary>
+            <see href="http://msdn.microsoft.com/en-us/library/windowsphone/develop/jj244365%28v=vs.105%29.aspx"/>
+            <typeparam name="T">The data type of the grouped list.</typeparam>
+        </member>
+        <member name="M:Facebook.Client.Controls.AlphaKeyGroup`1.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the AlphaKeyGroup class.
+            </summary>
+            <param name="key">The key for this group.</param>
+        </member>
+        <member name="M:Facebook.Client.Controls.AlphaKeyGroup`1.#ctor(System.Linq.IGrouping{System.String,`0})">
+            <summary>
+            Initializes a new instance of the AlphaKeyGroup class.
+            </summary>
+            <param name="grouping">The grouping object. N.B. this will enumerate all items.</param>
+        </member>
+        <member name="M:Facebook.Client.Controls.AlphaKeyGroup`1.CreateGroups(System.Collections.Generic.IEnumerable{`0},System.Globalization.CultureInfo,Facebook.Client.Controls.AlphaKeyGroup{`0}.GetKeyDelegate,System.Boolean)">
+            <summary>
+            Create a list of AlphaGroup&lt;T&gt; with keys set by a SortedLocaleGrouping.
+            </summary>
+            <param name="items">The items to place in the groups.</param>
+            <param name="ci">The CultureInfo to group and sort by.</param>
+            <param name="getKey">A delegate to get the key from an item.</param>
+            <param name="sort">Will sort the data if true.</param>
+            <returns>An items source for a LongListSelector</returns>
+        </member>
+        <member name="M:Facebook.Client.Controls.AlphaKeyGroup`1.CreateGroups(Facebook.Client.Controls.SortedLocaleGrouping)">
+            <summary>
+            Create a list of AlphaGroup&lt;T&gt; with keys set by a SortedLocaleGrouping.
+            </summary>
+            <param name="slg">The sorted group headers for the specified locale</param>
+            <returns>The items source for a LongListSelector</returns>
+        </member>
+        <member name="P:Facebook.Client.Controls.AlphaKeyGroup`1.Key">
+            <summary>
+            Gets the Key of this group.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.AlphaKeyGroup`1.GetKeyDelegate">
+            <summary>
+            The delegate that will be used to obtain the key information.
+            </summary>
+            <param name="item">An object of type T</param>
+            <returns>The key value to use for this object</returns>
+        </member>
+        <member name="T:Facebook.Client.Controls.PickerSelectionMode">
+            <summary>
+            Specifies the selection mode of a Picker control.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PickerSelectionMode.None">
+            <summary>
+            The user can't select items.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PickerSelectionMode.Single">
+            <summary>
+            The user can select a single item.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PickerSelectionMode.Multiple">
+            <summary>
+            The user can select multiple items.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PickerSelectionMode.Extended">
+            <summary>
+            The user can select multiple items. The selected items don't have to be contiguous.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.LocationCoordinate">
+            <summary>
+            Represents the coordinates of a place.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.LocationCoordinate.#ctor(System.Double,System.Double)">
+            <summary>
+            Initializes a new instance of the LocationCoordinate class.
+            </summary>
+            <param name="latitude">The latitude portion of the coordinate.</param>
+            <param name="longitude">The longitude portion of the coordinate.</param>
+        </member>
+        <member name="P:Facebook.Client.Controls.LocationCoordinate.Latitude">
+            <summary>
+            Gets the latitude portion of the coordinate.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.LocationCoordinate.Longitude">
+            <summary>
+            Gets the longitude portion of the coordinate.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.PlacePicker">
+            <summary>
+            Shows a user interface that can be used to select Facebook places.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.Picker`1">
+            <summary>
+            Displays a list of selectable items with optional multi-selection.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.Picker`1.#ctor">
+            <summary>
+            Initializes a new instance of the Picker class.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.Picker`1.SelectionModeProperty">
+            <summary>
+            Identifies the SelectionMode dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.Picker`1.GroupHeaderForegroundProperty">
+            <summary>
+            Identifies the GroupHeaderForeground dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.Picker`1.GroupHeaderBackgroundProperty">
+            <summary>
+            Identifies the GroupHeaderBackground dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.Picker`1.ItemsProperty">
+            <summary>
+            Identifies the Items dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.Picker`1.SelectedItemProperty">
+            <summary>
+            Identifies the SelectedItem dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.Picker`1.SelectedItemsProperty">
+            <summary>
+            Identifies the SelectedItems dependency property.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.Picker`1.OnApplyTemplate">
+            <summary>
+            Invoked whenever application code or internal processes (such as a rebuilding layout pass) call ApplyTemplate. In simplest 
+            terms, this means the method is called just before a UI element displays in your app. Override this method to influence the 
+            default post-template logic of a class. 
+            </summary>
+        </member>
+        <member name="E:Facebook.Client.Controls.Picker`1.DataItemRetrieved">
+            <summary>
+            Occurs whenever a new item is about to be added to the list.
+            </summary>
+        </member>
+        <member name="E:Facebook.Client.Controls.Picker`1.LoadCompleted">
+            <summary>
+            Occurs when the items in the list have finished loading.
+            </summary>
+        </member>
+        <member name="E:Facebook.Client.Controls.Picker`1.LoadFailed">
+            <summary>
+            Occurs whenever an error occurs while loading data.
+            </summary>
+        </member>
+        <member name="E:Facebook.Client.Controls.Picker`1.SelectionChanged">
+            <summary>
+            Occurs when the current selection changes.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.Picker`1.SelectionMode">
+            <summary>
+            Gets or sets the selection behavior of the control. 
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.Picker`1.GroupHeaderForeground">
+            <summary>
+            Gets or sets the foreground brush used for the group headers.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.Picker`1.GroupHeaderBackground">
+            <summary>
+            Gets or sets the background brush used for the group headers.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.Picker`1.Items">
+            <summary>
+            Gets the list of currently selected items for the Picker control.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.Picker`1.SelectedItem">
+            <summary>
+            Gets the currently selected item for the Picker control.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.Picker`1.SelectedItems">
+            <summary>
+            Gets the list of currently selected items for the Picker control.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.PlacePicker.#ctor">
+            <summary>
+            Initializes a new instance of the PlacePicker class.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PlacePicker.AccessTokenProperty">
+            <summary>
+            Identifies the AccessToken dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PlacePicker.DisplayFieldsProperty">
+            <summary>
+            Identifies the DisplayFields dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PlacePicker.DisplayProfilePicturesProperty">
+            <summary>
+            Identifies the DisplayProfilePictures dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PlacePicker.PictureSizeProperty">
+            <summary>
+            Identifies the PictureSize dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PlacePicker.SearchTextProperty">
+            <summary>
+            Identifies the SearchText dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PlacePicker.RadiusInMetersProperty">
+            <summary>
+            Identifies the RadiusInMeters dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PlacePicker.LatitudeProperty">
+            <summary>
+            Identifies the Latitude dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PlacePicker.LongitudeProperty">
+            <summary>
+            Identifies the Longitude dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.PlacePicker.TrackLocationProperty">
+            <summary>
+            Identifies the TrackLocation dependency property.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.PlacePicker.AccessToken">
+            <summary>
+            Gets or sets the access token returned by the Facebook Login service.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.PlacePicker.DisplayFields">
+            <summary>
+            Gets or sets additional fields to fetch when requesting place data.
+            </summary>
+            <remarks>
+            By default, the following data is retrieved for each place: TODO: to be completed.
+            </remarks>
+        </member>
+        <member name="P:Facebook.Client.Controls.PlacePicker.DisplayProfilePictures">
+            <summary>
+            Specifies whether profile pictures are displayed.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.PlacePicker.PictureSize">
+            <summary>
+            Gets or sets the size of the profile pictures displayed.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.PlacePicker.SearchText">
+            <summary>
+            Gets or sets the search text to filter place data (e.g. Restaurant, Supermarket, Sports, etc...)
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.PlacePicker.RadiusInMeters">
+            <summary>
+            Gets or sets the distance in meters from the search location for which results are returned.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.PlacePicker.Latitude">
+            <summary>
+            Gets or sets the latitude of the location around which to retrieve place data.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.PlacePicker.Longitude">
+            <summary>
+            Gets or sets the longitude of the location around which to retrieve place data.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.PlacePicker.TrackLocation">
+            <summary>
+            Specifies whether to track the current location for searches.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.PlacePickerDesignSupport">
+            <summary>
+            Provides design time support for the FriendPicker control.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.CropMode">
+            <summary>
+            Specifies the cropping treatment of the profile picture.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.CropMode.Square">
+            <summary>
+            Specifies the square version of the picture that the Facebook user defined.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.CropMode.Original">
+            <summary>
+            Specifies the original profile picture, as uploaded by the user.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.CropMode.Fill">
+            <summary>
+            Specifies the picture is resized to fit the control's dimensions while preserving its native aspect ratio.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.ProfilePicture">
+            <summary>
+            Shows the profile picture for an object such as a user, place, or event.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.ProfilePicture.#ctor">
+            <summary>
+            Initializes a new instance of the ProfilePicture class.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.ProfilePicture.AccessTokenProperty">
+            <summary>
+            Identifies the AccessToken dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.ProfilePicture.ProfileIdProperty">
+            <summary>
+            Identifies the ProfileId dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.ProfilePicture.CropModeProperty">
+            <summary>
+            Identifies the CropMode dependency property.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.ProfilePicture.OnApplyTemplate">
+            <summary>
+            Invoked whenever application code or internal processes (such as a rebuilding layout pass) call ApplyTemplate. In simplest 
+            terms, this means the method is called just before a UI element displays in your app. Override this method to influence the 
+            default post-template logic of a class. 
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.ProfilePicture.ArrangeOverride(Windows.Foundation.Size)">
+            <summary>
+            Provides the behavior for the "Arrange" pass of layout. Classes can override this method to define their own "Arrange" pass behavior.
+            </summary>
+            <param name="finalSize">The final area within the parent that this object should use to arrange itself and its children.</param>
+            <returns>The actual size that is used after the element is arranged in layout.</returns>
+        </member>
+        <member name="P:Facebook.Client.Controls.ProfilePicture.AccessToken">
+            <summary>
+            Gets or sets the access token returned by the Facebook Login service.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.ProfilePicture.ProfileId">
+            <summary>
+            The Facebook ID of the user, place or object for which a picture should be fetched and displayed.
+            </summary>
+            <remarks>
+            The control displays a blank profile (silhouette) picture if this property is null or empty.
+            </remarks>
+        </member>
+        <member name="P:Facebook.Client.Controls.ProfilePicture.CropMode">
+            <summary>
+            Gets or sets the cropping treatment of the profile picture.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.FacebookSessionClient.Logout">
+            <summary>
+            Log a user out of Facebook.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.GraphLocation">
+            <summary>
+            Provides a strongly-typed representation of a Facebook Location as defined by the Graph API.
+            </summary>
+            <remarks>
+            The GraphLocation class represents the most commonly used properties of a Facebook Location object.
+            </remarks>
+        </member>
+        <member name="T:Facebook.Client.GraphObject">
+            <summary>
+            Base class for objects returned by the Facebook Graph API that provides access to its properties dynamically.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.GraphObject.#ctor">
+            <summary>
+            Initializes a new instance of the GraphObject class.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.GraphObject.#ctor(System.Collections.Generic.IDictionary{System.String,System.Object})">
+            <summary>
+            Initializes a new instance of the GraphObject class from a dynamic object returned by the Facebook API.
+            </summary>
+            <param name="graphObject">The dynamic object representing the Facebook object.</param>
+        </member>
+        <member name="P:Facebook.Client.GraphObject.Item(System.String)">
+            <summary>
+            Gets the property of the object with the specified key.
+            </summary>
+            <param name="key"></param>
+            <returns>The key of the property to get.</returns>
+        </member>
+        <member name="M:Facebook.Client.GraphLocation.#ctor">
+            <summary>
+            Initializes a new instance of the GraphLocation class.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.GraphLocation.#ctor(System.Object)">
+            <summary>
+            Initializes a new instance of the GraphLocation class from a dynamic object returned by the Facebook API.
+            </summary>
+            <param name="location">The dynamic object representing the Facebook location.</param>
+        </member>
+        <member name="P:Facebook.Client.GraphLocation.Street">
+            <summary>
+            Gets or sets the street component of the location.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphLocation.City">
+            <summary>
+            Gets or sets the city component of the location.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphLocation.State">
+            <summary>
+            Gets or sets the state component of the location.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphLocation.Country">
+            <summary>
+            Gets or sets the country component of the location.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphLocation.Zip">
+            <summary>
+            Gets or sets the postal code component of the location.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphLocation.Latitude">
+            <summary>
+            Gets or sets the latitude component of the location.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphLocation.Longitude">
+            <summary>
+            Gets or sets the longitude component of the location.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.GraphPlace">
+            <summary>
+            Provides a strongly-typed representation of a Facebook Place as defined by the Graph API.
+            </summary>
+            <remarks>
+            The GraphPlace class represents the most commonly used properties of a Facebook Place object.
+            </remarks>
+        </member>
+        <member name="M:Facebook.Client.GraphPlace.#ctor">
+            <summary>
+            Initializes a new instance of the GraphPlace class.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.GraphPlace.#ctor(System.Object)">
+            <summary>
+            Initializes a new instance of the GraphPlace class from a dynamic object returned by the Facebook API.
+            </summary>
+            <param name="place">The dynamic object representing the Facebook place.</param>
+        </member>
+        <member name="P:Facebook.Client.GraphPlace.Id">
+            <summary>
+            Gets or sets the ID of the place.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphPlace.Name">
+            <summary>
+            Gets or sets the name of the place.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphPlace.Location">
+            <summary>
+            Gets or sets the location of the place.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphPlace.ProfilePictureUrl">
+            <summary>
+            Gets or sets the URL of the place's profile picture.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.GraphUser">
+            <summary>
+            Provides a strongly-typed representation of a Facebook User as defined by the Graph API.
+            </summary>
+            <remarks>
+            The GraphUser class represents the most commonly used properties of a Facebook User object.
+            </remarks>
+        </member>
+        <member name="M:Facebook.Client.GraphUser.#ctor">
+            <summary>
+            Initializes a new instance of the GraphUser class.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.GraphUser.#ctor(System.Object)">
+            <summary>
+            Initializes a new instance of the GraphUser class from a dynamic object returned by the Facebook API.
+            </summary>
+            <param name="user">The dynamic object representing the Facebook user.</param>
+        </member>
+        <member name="P:Facebook.Client.GraphUser.Id">
+            <summary>
+            Gets or sets the ID of the user.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphUser.Name">
+            <summary>
+            Gets or sets the name of the user.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphUser.UserName">
+            <summary>
+            Gets or sets the Facebook username of the user.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphUser.FirstName">
+            <summary>
+            Gets or sets the first name of the user.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphUser.MiddleName">
+            <summary>
+            Gets or sets the middle name of the user.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphUser.LastName">
+            <summary>
+            Gets or sets the last name of the user.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphUser.Birthday">
+            <summary>
+            Gets or sets the birthday of the user.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphUser.Link">
+            <summary>
+            Gets or sets the Facebook URL of the user.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphUser.Location">
+            <summary>
+            Gets or sets the current city of the user.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.GraphUser.ProfilePictureUrl">
+            <summary>
+            Gets or sets the URL of the user's profile picture.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.PickerSelectionModeConverter">
+            <summary>
+            Converts between PickerSelectionMode and ListViewSelectionMode values.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.PickerSelectionModeConverter.Convert(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Converts a PickerSelectionMode value to a ListViewSelectionMode value.
+            </summary>
+            <param name="value">The value that is produced by the binding target.</param>
+            <param name="targetType">The type to convert to.</param>
+            <param name="parameter">Unused.</param>
+            <param name="language">The culture to use in the converter (unused).</param>
+            <returns>A converted value.</returns>
+        </member>
+        <member name="M:Facebook.Client.Controls.PickerSelectionModeConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Not implemented.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.SizeToGridCellConverter">
+            <summary>
+            Calculates the size of group templates used by the zoomed out view to arrange them evenly.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.SizeToGridCellConverter.Convert(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Calculates the width and height of the group templates based on the size of the control.
+            </summary>
+            <param name="value">A reference to the control hosting the group templates.</param>
+            <param name="targetType">The type to convert to.</param>
+            <param name="parameter">Unused.</param>
+            <param name="language">The culture to use in the converter (unused).</param>
+            <returns>.</returns>
+        </member>
+        <member name="M:Facebook.Client.Controls.SizeToGridCellConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)">
+            <summary>
+            Not implemented.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.FriendPicker">
+            <summary>
+            Shows a user interface that can be used to select Facebook friends.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.FriendPicker.#ctor">
+            <summary>
+            Initializes a new instance of the FriendPicker class.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPicker.AccessTokenProperty">
+            <summary>
+            Identifies the AccessToken dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPicker.ProfileIdProperty">
+            <summary>
+            Identifies the ProfileId dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPicker.DisplayOrderProperty">
+            <summary>
+            Identifies the DisplayOrder dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPicker.SortOrderProperty">
+            <summary>
+            Identifies the SortOrder dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPicker.DisplayFieldsProperty">
+            <summary>
+            Identifies the DisplayFields dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPicker.DisplayProfilePicturesProperty">
+            <summary>
+            Identifies the DisplayProfilePictures dependency property.
+            </summary>
+        </member>
+        <member name="F:Facebook.Client.Controls.FriendPicker.PictureSizeProperty">
+            <summary>
+            Identifies the PictureSize dependency property.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.FriendPicker.AccessToken">
+            <summary>
+            Gets or sets the access token returned by the Facebook Login service.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.FriendPicker.ProfileId">
+            <summary>
+            The profile ID of the user for which to retrieve a list of friends.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.FriendPicker.DisplayOrder">
+            <summary>
+            Controls whether to display first name or last name first.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.FriendPicker.SortOrder">
+            <summary>
+            Controls the order in which friends are listed in the friend picker.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.FriendPicker.DisplayFields">
+            <summary>
+            Gets or sets additional fields to fetch when requesting friend data.
+            </summary>
+            <remarks>
+            By default, the following data is retrieved for each friend: id, name, first_name, middle_name, last_name and picture.
+            </remarks>
+        </member>
+        <member name="P:Facebook.Client.Controls.FriendPicker.DisplayProfilePictures">
+            <summary>
+            Specifies whether profile pictures are displayed.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.FriendPicker.PictureSize">
+            <summary>
+            Gets or sets the size of the profile pictures displayed.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.Controls.SortedLocaleGrouping">
+            <summary>
+            Provides a way to access basic set of sorted group headers for any locale.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.SortedLocaleGrouping.#ctor">
+            <summary>
+            Initializes a new instance of the SortedLocaleGrouping class.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.Controls.SortedLocaleGrouping.#ctor(System.Globalization.CultureInfo)">
+            <summary>
+            Initializes a new instance of the SortedLocaleGrouping class with the specified CultureInfo.
+            </summary>
+            <param name="culture">The specified CultureInfo.</param>
+        </member>
+        <member name="M:Facebook.Client.Controls.SortedLocaleGrouping.GetGroupIndex(System.String)">
+            <summary>
+            Returns the group index to which the value string belongs.
+            </summary>
+            <param name="p">The specified string.</param>
+            <returns>The group index to which the value string belongs.</returns>
+            <remarks>Return value matches the position in the GroupDisplayNames collection.</remarks>
+        </member>
+        <member name="P:Facebook.Client.Controls.SortedLocaleGrouping.GroupDisplayNames">
+            <summary>
+            Get the strings for all the groups for this locale.
+            </summary>
+        </member>
+        <member name="P:Facebook.Client.Controls.SortedLocaleGrouping.SupportsPhonetics">
+            <summary>
+            Gets a value that indicates whether the culture supports optional phonetic grouping.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.FacebookDialogPage">
+            <summary>
+            An empty page that can be used on its own or navigated to within a Frame.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.FacebookDialogPage.OnNavigatedTo(Windows.UI.Xaml.Navigation.NavigationEventArgs)">
+            <summary>
+            Invoked when this page is about to be displayed in a Frame.
+            </summary>
+            <param name="e">Event data that describes how this page was reached.  The Parameter
+            property is typically used to configure the page.</param>
+        </member>
+    </members>
+</doc>

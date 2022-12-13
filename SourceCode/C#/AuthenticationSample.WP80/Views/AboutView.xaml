@@ -1,0 +1,112 @@
+﻿<phone:PhoneApplicationPage x:Class="AuthenticationSample.WP80.Views.AboutView"
+                            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                            xmlns:cimbalino="clr-namespace:Cimbalino.Phone.Toolkit.Behaviors;assembly=Cimbalino.Phone.Toolkit"
+                            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                            xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+                            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                            xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+                            xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+                            DataContext="{Binding AboutViewModel,
+                                                  Source={StaticResource Locator}}"
+                            FontFamily="{StaticResource PhoneFontFamilyNormal}"
+                            FontSize="{StaticResource PhoneFontSizeNormal}"
+                            Foreground="{StaticResource PhoneForegroundBrush}"
+                            Orientation="Portrait"
+                            SupportedOrientations="Portrait"
+                            shell:SystemTray.IsVisible="True"
+                            mc:Ignorable="d">
+
+    <!--  LayoutRoot is the root grid where all page content is placed  -->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0"
+                   Margin="12,0"
+                   Style="{StaticResource PhoneTextNormalStyle}"
+                   Text="{Binding LocalizedResources.ApplicationTitle,
+                                  Mode=OneWay,
+                                  Source={StaticResource LocalizedStrings}}" />
+        <Grid x:Name="ContentPanel" Margin="12,0,12,0">
+            <StackPanel Margin="0,-12,0,24">
+                <Image Width="100"
+                               Height="100"
+                               Source="../Assets/Tiles/FlipCycleTileMedium.png" />
+                <TextBlock Margin="12,24,0,0"
+                                   FontSize="{StaticResource PhoneFontSizeSmall}"
+                                   Style="{StaticResource PhoneTextNormalStyle}"
+                                   Text="{Binding LocalizedResources.AboutView_AboutApp,
+                                                  Mode=OneWay,
+                                                  Source={StaticResource LocalizedStrings}}"
+                                   TextWrapping="Wrap" />
+
+                <TextBlock Margin="12,12,0,0"
+                                   FontSize="{StaticResource PhoneFontSizeMedium}"
+                                   FontWeight="Bold"
+                                   Style="{StaticResource PhoneTextNormalStyle}"
+                                   Text="Copyright (c) 2014 saramgsilva" />
+
+                <StackPanel Margin="0,18,0,0" Orientation="Horizontal">
+                    <TextBlock FontSize="{StaticResource PhoneFontSizeMedium}"
+                                       FontWeight="Bold"
+                                       Style="{StaticResource PhoneTextNormalStyle}"
+                                       Text="{Binding LocalizedResources.AboutView_Version,
+                                                      Mode=OneWay,
+                                                      Source={StaticResource LocalizedStrings}}" />
+                    <TextBlock x:Name="AppVersion"
+                                       Margin="0"
+                                       Style="{StaticResource PhoneTextNormalStyle}"
+                                       Text="{Binding Version}" />
+                </StackPanel>
+
+
+                <TextBlock Margin="12,24,0,12"
+                                   FontSize="{StaticResource PhoneFontSizeMedium}"
+                                   FontWeight="Bold"
+                                   Style="{StaticResource PhoneTextNormalStyle}"
+                                   Text="{Binding LocalizedResources.AboutView_MoreInfo,
+                                                  Mode=OneWay,
+                                                  Source={StaticResource LocalizedStrings}}" />
+
+                <HyperlinkButton HorizontalAlignment="Left"
+                                         Content="{Binding LocalizedResources.AboutView_WebSite,
+                                                           Mode=OneWay,
+                                                           Source={StaticResource LocalizedStrings}}"
+                                         Foreground="{StaticResource PhoneAccentBrush}"
+                                         NavigateUri="http://www.saramgsilva.com"
+                                         TargetName="_new" />
+
+            </StackPanel>
+        </Grid>
+        <i:Interaction.Behaviors>
+            <cimbalino:ApplicationBarBehavior>
+                <cimbalino:ApplicationBarIconButton Command="{Binding RateCommand,
+                                                                      Mode=OneTime}"
+                                                    IconUri="/Images/appbar.rate.png"
+                                                    Text="{Binding LocalizedResources.AboutView_AppbarRateIt,
+                                                                   Mode=OneWay,
+                                                                   Source={StaticResource LocalizedStrings}}" />
+                <cimbalino:ApplicationBarIconButton Command="{Binding SendFeedbackCommand,
+                                                                      Mode=OneTime}"
+                                                    IconUri="/Images/appbar.reply.email.png"
+                                                    Text="{Binding LocalizedResources.AboutView_AppBarFeedback,
+                                                                   Mode=OneWay,
+                                                                   Source={StaticResource LocalizedStrings}}" />
+                <cimbalino:ApplicationBarIconButton Command="{Binding ShareToMailCommand,
+                                                                      Mode=OneTime}"
+                                                    IconUri="/Images/appbar.email.png"
+                                                    Text="{Binding LocalizedResources.AboutView_AppBarEmail,
+                                                                   Mode=OneWay,
+                                                                   Source={StaticResource LocalizedStrings}}" />
+                <cimbalino:ApplicationBarIconButton Command="{Binding ShareSocialNetworkCommand,
+                                                                      Mode=OneTime}"
+                                                    IconUri="/Images/appbar.share.png"
+                                                    Text="{Binding LocalizedResources.AboutView_AppBarShare,
+                                                                   Mode=OneWay,
+                                                                   Source={StaticResource LocalizedStrings}}" />
+            </cimbalino:ApplicationBarBehavior>
+        </i:Interaction.Behaviors>
+    </Grid>
+</phone:PhoneApplicationPage>

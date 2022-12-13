@@ -1,0 +1,12 @@
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\rob\Desktop\final\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\Content\WhiteDot.xnb

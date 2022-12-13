@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\Bin\Debug\CustomerManager_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="20/08/2013 15:02:03">
+  <file source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\obj\Debug\CustomerManager.dll" archivePath="CustomerManager.dll" lastWriteTime="20/08/2013 15:02:02" />
+  <file source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="20/08/2013 12:01:39" />
+  <file source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="20/08/2013 12:01:39" />
+  <file source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="20/08/2013 12:01:39" />
+  <file source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="20/08/2013 12:01:39" />
+  <file source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="20/08/2013 12:01:39" />
+  <file source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="20/08/2013 12:01:49" />
+  <file source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="20/08/2013 12:01:39" />
+  <file source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="20/08/2013 12:01:39" />
+  <file source="C:\Users\rob\Desktop\final\CustomerManager\CustomerManager\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="20/08/2013 12:01:49" />
+</xapCache>

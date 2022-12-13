@@ -1,0 +1,482 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cimbalino.Phone.Toolkit.Location</name>
+    </assembly>
+    <members>
+        <member name="T:Cimbalino.Phone.Toolkit.Services.ILocationService">
+            <summary>
+            Represents a service capable of handling the device location capabilities.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.Start">
+            <summary>
+            Starts the acquisition of data from the location service.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.Start(Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy)">
+            <summary>
+            Starts the acquisition of data from the location service.
+            </summary>
+            <param name="desiredAccuracy">The desired accuracy.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.Start(System.Int32)">
+            <summary>
+            Starts the acquisition of data from the location service.
+            </summary>
+            <param name="desiredAccuracyInMeters">The desired accuracy in meters for data returned from the location service.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.Stop">
+            <summary>
+            Stops the acquisition of data from the location service.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.GetPosition(System.Action{Cimbalino.Phone.Toolkit.Services.LocationServicePosition,System.Exception})">
+            <summary>
+            Retrieves the current location.
+            </summary>
+            <param name="locationResult">The current location.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.GetPosition(Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy,System.Action{Cimbalino.Phone.Toolkit.Services.LocationServicePosition,System.Exception})">
+            <summary>
+            Retrieves the current location.
+            </summary>
+            <param name="desiredAccuracy">The desired accuracy.</param>
+            <param name="locationResult">The current location.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.GetPosition(System.TimeSpan,System.TimeSpan,System.Action{Cimbalino.Phone.Toolkit.Services.LocationServicePosition,System.Exception})">
+            <summary>
+            Retrieves the current location.
+            </summary>
+            <param name="maximumAge">The maximum acceptable age of cached location data.</param>
+            <param name="timeout">The timeout.</param>
+            <param name="locationResult">The current location.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.GetPosition(Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy,System.TimeSpan,System.TimeSpan,System.Action{Cimbalino.Phone.Toolkit.Services.LocationServicePosition,System.Exception})">
+            <summary>
+            Retrieves the current location.
+            </summary>
+            <param name="desiredAccuracy">The desired accuracy.</param>
+            <param name="maximumAge">The maximum acceptable age of cached location data.</param>
+            <param name="timeout">The timeout.</param>
+            <param name="locationResult">The current location.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.GetPositionAsync">
+            <summary>
+            Starts an asynchronous operation to retrieve the current location.
+            </summary>
+            <returns>The <see cref="T:System.Threading.Tasks.Task"/> object representing the asynchronous operation.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.GetPositionAsync(Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy)">
+            <summary>
+            Starts an asynchronous operation to retrieve the current location.
+            </summary>
+            <param name="desiredAccuracy">The desired accuracy.</param>
+            <returns>The <see cref="T:System.Threading.Tasks.Task"/> object representing the asynchronous operation.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.GetPositionAsync(System.TimeSpan,System.TimeSpan)">
+            <summary>
+            Starts an asynchronous operation to retrieve the current location.
+            </summary>
+            <param name="maximumAge">The maximum acceptable age of cached location data.</param>
+            <param name="timeout">The timeout.</param>
+            <returns>The <see cref="T:System.Threading.Tasks.Task"/> object representing the asynchronous operation.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.ILocationService.GetPositionAsync(Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy,System.TimeSpan,System.TimeSpan)">
+            <summary>
+            Starts an asynchronous operation to retrieve the current location.
+            </summary>
+            <param name="desiredAccuracy">The desired accuracy.</param>
+            <param name="maximumAge">The maximum acceptable age of cached location data.</param>
+            <param name="timeout">The timeout.</param>
+            <returns>The <see cref="T:System.Threading.Tasks.Task"/> object representing the asynchronous operation.</returns>
+        </member>
+        <member name="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged">
+            <summary>
+            Occurs when the location service detects a change in position.
+            </summary>
+        </member>
+        <member name="E:Cimbalino.Phone.Toolkit.Services.ILocationService.StatusChanged">
+            <summary>
+            Occurs when the status of the location service changes.
+            </summary>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.ILocationService.DesiredAccuracy">
+            <summary>
+            Gets the accuracy level at which the location service provides location updates.
+            </summary>
+            <value>The accuracy level at which the location service provides location updates.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.ILocationService.DesiredAccuracyInMeters">
+            <summary>
+            Gets the desired accuracy in meters for data returned from the location service.
+            </summary>
+            <value>The desired accuracy in meters for data returned from the location service.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.ILocationService.Status">
+            <summary>
+            Gets the status that indicates the ability of the location service to provide location updates.
+            </summary>
+            <value>The status that indicates the ability of the location service to provide location updates.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.ILocationService.MovementThreshold">
+            <summary>
+            Gets or sets the distance of movement, in meters, relative to the coordinate from the last <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged"/> event, that is required for the location service to raise a <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged"/> event.
+            </summary>
+            <value>The distance of movement, in meters, relative to the coordinate from the last <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged"/> event, that is required for the location service to raise a <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged"/> event.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.ILocationService.ReportInterval">
+            <summary>
+            Gets or sets the requested minimum time interval between location updates, in milliseconds. If your application requires updates infrequently, set this value so that the location provider can conserve power by calculating location only when needed.
+            </summary>
+            <value>The requested minimum time interval between location updates, in milliseconds.</value>
+        </member>
+        <member name="T:Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy">
+            <summary>
+            Indicates the requested accuracy level for the location data that the application uses.
+            </summary>
+        </member>
+        <member name="F:Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy.Default">
+            <summary>
+            Optimize for power, performance, and other cost considerations.
+            </summary>
+        </member>
+        <member name="F:Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy.High">
+            <summary>
+            Deliver the most accurate report possible. This includes using services that might charge money, or consuming higher levels of battery power or connection bandwidth. An accuracy level of High may degrade system performance and should be used only when necessary.
+            </summary>
+        </member>
+        <member name="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition">
+            <summary>
+            Represents a location expressed as a geographic coordinate.
+            </summary>
+        </member>
+        <member name="F:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.Unknown">
+            <summary>
+            Represents a <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> object with unknown latitude and longitude fields.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> class.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.#ctor(System.DateTimeOffset,System.Double,System.Double,System.Double,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> class.
+            </summary>
+            <param name="timestamp">The time at which the location was determined.</param>
+            <param name="latitude">The latitude in degrees.</param>
+            <param name="longitude">The longitude in degrees.</param>
+            <param name="accuracy">The accuracy of the location in meters.</param>
+            <param name="altitude">The altitude of the location, in meters.</param>
+            <param name="altitudeAccuracy">The accuracy of the altitude, in meters.</param>
+            <param name="heading">The current heading in degrees relative to true north.</param>
+            <param name="speed">The speed in meters per second.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.ToString">
+            <summary>
+            Returns a string representation of the current <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/>.
+            </summary>
+            <returns>A string representation of the current <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/>.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.GetHashCode">
+            <summary>
+            Returns a hash code for this instance.
+            </summary>
+            <returns>A hash code for the current <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/>.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.Equals(System.Object)">
+            <summary>
+            Determines whether the specified object is a <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> that has the same latitude and longitude values as this one.
+            </summary>
+            <param name="obj">The object to compare with the current instance.</param>
+            <returns>true if the latitude and longitude properties of both objects have the same value.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.Equals(Cimbalino.Phone.Toolkit.Services.LocationServicePosition)">
+            <summary>
+            Determines whether the specified <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> has the same latitude and longitude values as this one.
+            </summary>
+            <param name="other">The <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> object to compare with the current instance.</param>
+            <returns>true if the latitude and longitude properties of both objects have the same value; otherwise, false.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.GetDistanceTo(Cimbalino.Phone.Toolkit.Services.LocationServicePosition)">
+            <summary>
+            Returns the distance between the latitude and longitude coordinates that are specified by this <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> and another specified <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/>.
+            </summary>
+            <param name="other">The <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> for the location to calculate the distance to.</param>
+            <returns>The distance between the two coordinates, in meters.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.op_Inequality(Cimbalino.Phone.Toolkit.Services.LocationServicePosition,Cimbalino.Phone.Toolkit.Services.LocationServicePosition)">
+            <summary>
+            Determines whether two <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> objects are not equal.
+            </summary>
+            <param name="left">The first <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> to test for inequality.</param>
+            <param name="right">The second <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> to test for inequality.</param>
+            <returns>true if the latitude and longitude values of both <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> objects are not equal; otherwise, false.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.op_Equality(Cimbalino.Phone.Toolkit.Services.LocationServicePosition,Cimbalino.Phone.Toolkit.Services.LocationServicePosition)">
+            <summary>
+            Determines whether two <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> objects are equal.
+            </summary>
+            <param name="left">The first <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> to test for equality.</param>
+            <param name="right">The second <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> to test for equality.</param>
+            <returns>true if the latitude and longitude values of both <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> objects are equal; otherwise, false.</returns>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.Timestamp">
+            <summary>
+            Gets the time at which the location was determined.
+            </summary>
+            <value>The time at which the location was determined.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.Latitude">
+            <summary>
+            Gets the latitude in degrees.
+            </summary>
+            <value>The latitude in degrees.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.Longitude">
+            <summary>
+            Gets the longitude in degrees.
+            </summary>
+            <value>The longitude in degrees.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.Accuracy">
+            <summary>
+            Gets the accuracy of the location in meters.
+            </summary>
+            <value>The accuracy of the location in meters.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.Altitude">
+            <summary>
+            Gets the altitude of the location, in meters.
+            </summary>
+            <value>The altitude of the location, in meters.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.AltitudeAccuracy">
+            <summary>
+            Gets the accuracy of the altitude, in meters.
+            </summary>
+            <value>The accuracy of the altitude, in meters.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.Heading">
+            <summary>
+            Gets the current heading in degrees relative to true north.
+            </summary>
+            <value>The current heading in degrees relative to true north.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.Speed">
+            <summary>
+            Gets the speed in meters per second.
+            </summary>
+            <value>The speed in meters per second.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServicePosition.IsUnknown">
+            <summary>
+            Gets a value indicating whether the <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> does not contain latitude or longitude data.
+            </summary>
+            <value>true if the <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> does not contain latitude or longitude data; otherwise, false.</value>
+        </member>
+        <member name="T:Cimbalino.Phone.Toolkit.Services.LocationServicePositionChangedEventArgs">
+            <summary>
+            Provides data for <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged"/> events.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServicePositionChangedEventArgs.#ctor(Cimbalino.Phone.Toolkit.Services.LocationServicePosition)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePositionChangedEventArgs"/> class.
+            </summary>
+            <param name="position">A <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> object containing the location and time stamp data for the event.</param>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServicePositionChangedEventArgs.Position">
+            <summary>
+            Gets the <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/> object containing the location and time stamp data for the <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged"/> event.
+            </summary>
+            <value>The <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServicePosition"/>.</value>
+        </member>
+        <member name="T:Cimbalino.Phone.Toolkit.Services.LocationServiceStatus">
+            <summary>
+            Indicates the ability of the <see cref="T:Cimbalino.Phone.Toolkit.Services.ILocationService"/> to provide location data.
+            </summary>
+        </member>
+        <member name="F:Cimbalino.Phone.Toolkit.Services.LocationServiceStatus.Ready">
+            <summary>
+            Location data is available.
+            </summary>
+        </member>
+        <member name="F:Cimbalino.Phone.Toolkit.Services.LocationServiceStatus.Initializing">
+            <summary>
+            The location provider is initializing. This is the status if a GPS is the source of location data and the GPS receiver does not yet have the required number of satellites in view to obtain an accurate position.
+            </summary>
+        </member>
+        <member name="F:Cimbalino.Phone.Toolkit.Services.LocationServiceStatus.NoData">
+            <summary>
+            No location data is available from any location provider.
+            </summary>
+        </member>
+        <member name="F:Cimbalino.Phone.Toolkit.Services.LocationServiceStatus.Disabled">
+            <summary>
+            The location provider is disabled. This status indicates that the user has not granted the application permission to access location.
+            </summary>
+        </member>
+        <member name="F:Cimbalino.Phone.Toolkit.Services.LocationServiceStatus.NotInitialized">
+            <summary>
+            An operation to retrieve location has not yet been initialized.
+            </summary>
+        </member>
+        <member name="F:Cimbalino.Phone.Toolkit.Services.LocationServiceStatus.NotAvailable">
+            <summary>
+            The Windows Sensor and Location Platform is not available on this version of Windows.
+            </summary>
+        </member>
+        <member name="T:Cimbalino.Phone.Toolkit.Services.LocationServiceStatusChangedEventArgs">
+            <summary>
+            Provides information for the <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.StatusChanged"/> event.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationServiceStatusChangedEventArgs.#ctor(Cimbalino.Phone.Toolkit.Services.LocationServiceStatus)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationServiceStatusChangedEventArgs"/> class.
+            </summary>
+            <param name="status">The updated status of the <see cref="T:Cimbalino.Phone.Toolkit.Services.ILocationService"/> object.</param>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationServiceStatusChangedEventArgs.Status">
+            <summary>
+            Gets the updated status of the <see cref="T:Cimbalino.Phone.Toolkit.Services.ILocationService"/> object.
+            </summary>
+            <value>The updated status of the <see cref="T:Cimbalino.Phone.Toolkit.Services.ILocationService"/> object.</value>
+        </member>
+        <member name="T:Cimbalino.Phone.Toolkit.Services.LocationService">
+            <summary>
+            Represents an implementation of the <see cref="T:Cimbalino.Phone.Toolkit.Services.ILocationService"/>.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Cimbalino.Phone.Toolkit.Services.LocationService"/> class.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.Start">
+            <summary>
+            Starts the acquisition of data from the location service.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.Start(Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy)">
+            <summary>
+            Starts the acquisition of data from the location service.
+            </summary>
+            <param name="desiredAccuracy">The desired accuracy.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.Start(System.Int32)">
+            <summary>
+            Starts the acquisition of data from the location service.
+            </summary>
+            <param name="desiredAccuracyInMeters">The desired accuracy in meters for data returned from the location service.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.Stop">
+            <summary>
+            Stops the acquisition of data from the location service.
+            </summary>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.GetPosition(System.Action{Cimbalino.Phone.Toolkit.Services.LocationServicePosition,System.Exception})">
+            <summary>
+            Retrieves the current location.
+            </summary>
+            <param name="locationResult">The current location.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.GetPosition(Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy,System.Action{Cimbalino.Phone.Toolkit.Services.LocationServicePosition,System.Exception})">
+            <summary>
+            Retrieves the current location.
+            </summary>
+            <param name="desiredAccuracy">The desired accuracy.</param>
+            <param name="locationResult">The current location.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.GetPosition(System.TimeSpan,System.TimeSpan,System.Action{Cimbalino.Phone.Toolkit.Services.LocationServicePosition,System.Exception})">
+            <summary>
+            Retrieves the current location.
+            </summary>
+            <param name="maximumAge">The maximum acceptable age of cached location data.</param>
+            <param name="timeout">The timeout.</param>
+            <param name="locationResult">The current location.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.GetPosition(Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy,System.TimeSpan,System.TimeSpan,System.Action{Cimbalino.Phone.Toolkit.Services.LocationServicePosition,System.Exception})">
+            <summary>
+            Retrieves the current location.
+            </summary>
+            <param name="desiredAccuracy">The desired accuracy.</param>
+            <param name="maximumAge">The maximum acceptable age of cached location data.</param>
+            <param name="timeout">The timeout.</param>
+            <param name="locationResult">The current location.</param>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.GetPositionAsync">
+            <summary>
+            Starts an asynchronous operation to retrieve the current location.
+            </summary>
+            <returns>The <see cref="T:System.Threading.Tasks.Task"/> object representing the asynchronous operation.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.GetPositionAsync(Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy)">
+            <summary>
+            Starts an asynchronous operation to retrieve the current location.
+            </summary>
+            <param name="desiredAccuracy">The desired accuracy.</param>
+            <returns>The <see cref="T:System.Threading.Tasks.Task"/> object representing the asynchronous operation.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.GetPositionAsync(System.TimeSpan,System.TimeSpan)">
+            <summary>
+            Starts an asynchronous operation to retrieve the current location.
+            </summary>
+            <param name="maximumAge">The maximum acceptable age of cached location data.</param>
+            <param name="timeout">The timeout.</param>
+            <returns>The <see cref="T:System.Threading.Tasks.Task"/> object representing the asynchronous operation.</returns>
+        </member>
+        <member name="M:Cimbalino.Phone.Toolkit.Services.LocationService.GetPositionAsync(Cimbalino.Phone.Toolkit.Services.LocationServiceAccuracy,System.TimeSpan,System.TimeSpan)">
+            <summary>
+            Starts an asynchronous operation to retrieve the current location.
+            </summary>
+            <param name="desiredAccuracy">The desired accuracy.</param>
+            <param name="maximumAge">The maximum acceptable age of cached location data.</param>
+            <param name="timeout">The timeout.</param>
+            <returns>The <see cref="T:System.Threading.Tasks.Task"/> object representing the asynchronous operation.</returns>
+        </member>
+        <member name="E:Cimbalino.Phone.Toolkit.Services.LocationService.PositionChanged">
+            <summary>
+            Occurs when the location service detects a change in position.
+            </summary>
+        </member>
+        <member name="E:Cimbalino.Phone.Toolkit.Services.LocationService.StatusChanged">
+            <summary>
+            Occurs when the status of the location service changes.
+            </summary>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationService.DesiredAccuracy">
+            <summary>
+            Gets the accuracy level at which the location service provides location updates.
+            </summary>
+            <value>The accuracy level at which the location service provides location updates.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationService.DesiredAccuracyInMeters">
+            <summary>
+            Gets the desired accuracy in meters for data returned from the location service.
+            </summary>
+            <value>The desired accuracy in meters for data returned from the location service.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationService.Status">
+            <summary>
+            Gets the status that indicates the ability of the location service to provide location updates.
+            </summary>
+            <value>The status that indicates the ability of the location service to provide location updates.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationService.MovementThreshold">
+            <summary>
+            Gets or sets the distance of movement, in meters, relative to the coordinate from the last <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged"/> event, that is required for the location service to raise a <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged"/> event.
+            </summary>
+            <value>The distance of movement, in meters, relative to the coordinate from the last <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged"/> event, that is required for the location service to raise a <see cref="E:Cimbalino.Phone.Toolkit.Services.ILocationService.PositionChanged"/> event.</value>
+        </member>
+        <member name="P:Cimbalino.Phone.Toolkit.Services.LocationService.ReportInterval">
+            <summary>
+            Gets or sets the requested minimum time interval between location updates, in milliseconds. If your application requires updates infrequently, set this value so that the location provider can conserve power by calculating location only when needed.
+            </summary>
+            <value>The requested minimum time interval between location updates, in milliseconds.</value>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Facebook.Client</name>
+    </assembly>
+    <members>
+        <member name="M:Facebook.Client.FacebookDialogPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.FacebookSessionClient.Logout">
+            <summary>
+            Log a user out of Facebook.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.LoginPage.#ctor">
+            <summary>
+            Initiatlizes the page by hooking up some event handlers.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.LoginPage.OnNavigatedTo(System.Windows.Navigation.NavigationEventArgs)">
+            <summary>
+            Initiates the authentication operation by pointing the browser control
+            to the PhoneWebAuthenticationBroker.StartUri.  If the PhoneWebAuthenticationBroker
+            isn't currently in the middle of an authentication operation, then we immediately
+            navigate back.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.LoginPage.OnNavigatingFrom(System.Windows.Navigation.NavigatingCancelEventArgs)">
+            <summary>
+            Updates the PhoneWebAuthenticationBroker on the state of the authentication
+            operation.  If we navigated back by pressing the back key, then the operation
+            will be canceled.  If the browser control successfully completed the operation,
+            signaled by its navigating to the PhoneWebAuthenticationBroker.EndUri, then we
+            pass the results on.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.LoginPage.LoginPage_BackKeyPress(System.Object,System.ComponentModel.CancelEventArgs)">
+            <summary>
+            Handler for the page's back key events.  We use this to determine whether navigations
+            away from this page are benign (such as going to the start screen) or actually meant
+            to cancel the operation.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.LoginPage.BrowserControl_Navigating(System.Object,Microsoft.Phone.Controls.NavigatingEventArgs)">
+            <summary>
+            Handler for the browser control's navigating event.  We use this to detect when login
+            has completed.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.LoginPage.BrowserControl_NavigationFailed(System.Object,System.Windows.Navigation.NavigationFailedEventArgs)">
+            <summary>
+            Handler for the browser control's navigation failed event.  We use this to detect errors
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.LoginPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.WebAuthenticationOptions">
+            <summary>
+            This class mimics the functionality provided by WebAuthenticationOptions available in Win8.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.WebAuthenticationStatus">
+            <summary>
+            This class mimics the functionality provided by WebAuthenticationStatus available in Win8.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.WebAuthenticationResult">
+            <summary>
+            This class mimics the functionality provided by WebAuthenticationResult available in Win8.
+            </summary>
+        </member>
+        <member name="T:Facebook.Client.WebAuthenticationBroker">
+            <summary>
+            This class mimics the functionality provided by WebAuthenticationBroker available in Win8.
+            </summary>
+        </member>
+        <member name="M:Facebook.Client.WebAuthenticationBroker.AuthenticateAsync(Facebook.Client.WebAuthenticationOptions,System.Uri,System.Uri)">
+            <summary>
+            Mimics the WebAuthenticationBroker's AuthenticateAsync method.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\Bin\Debug\SimpleSpeaker_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="23/08/2013 10:32:31">
+  <file source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\obj\Debug\SimpleSpeaker.dll" archivePath="SimpleSpeaker.dll" lastWriteTime="23/08/2013 10:32:30" />
+  <file source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="22/08/2013 17:04:21" />
+  <file source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="22/08/2013 17:04:21" />
+  <file source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="22/08/2013 17:04:21" />
+  <file source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="22/08/2013 17:04:21" />
+  <file source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="22/08/2013 17:04:21" />
+  <file source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="22/08/2013 17:04:31" />
+  <file source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="22/08/2013 17:04:21" />
+  <file source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="22/08/2013 17:04:21" />
+  <file source="C:\Users\rob\Desktop\final\SimpleSpeaker\SimpleSpeaker\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="22/08/2013 17:09:46" />
+</xapCache>

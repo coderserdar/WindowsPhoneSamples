@@ -1,0 +1,57 @@
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\WebScraper.dll
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\WebScraper.pdb
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\AppManifest.xaml
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\Bin\Debug\WebScraper_Debug_AnyCPU.xap
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\obj\Debug\App.g.cs
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\obj\Debug\MainPage.g.cs
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\obj\Debug\WebScraper.g.resources
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\obj\Debug\WebScraper.Resources.AppResources.resources
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\obj\Debug\WebScraper.csproj.GenerateResource.Cache
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\obj\Debug\WebScraper.dll
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\obj\Debug\WebScraper.pdb
+C:\Users\rob\Desktop\final\WebScraper\WebScraper\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\WebScraper.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\WebScraper.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\Bin\Debug\WebScraper_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\obj\Debug\WebScraper.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\obj\Debug\WebScraper.Resources.AppResources.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\obj\Debug\WebScraper.csproj.GenerateResource.Cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\obj\Debug\WebScraper.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\obj\Debug\WebScraper.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 04 WebScraper\WebScraper\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\WebScraper.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\WebScraper.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\Bin\Debug\WebScraper_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\obj\Debug\WebScraper.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\obj\Debug\WebScraper.Resources.AppResources.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\obj\Debug\WebScraper.csproj.GenerateResource.Cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\obj\Debug\WebScraper.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\obj\Debug\WebScraper.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 05 WebScraper Status\WebScraper\obj\Debug\XapCacheFile.xml

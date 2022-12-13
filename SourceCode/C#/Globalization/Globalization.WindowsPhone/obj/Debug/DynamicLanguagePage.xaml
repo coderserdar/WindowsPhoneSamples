@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Globalization.DynamicLanguagePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Globalization"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock x:Name="AppTitle" Text="" FontSize="36" ></TextBlock>
+        <ComboBox x:ConnectionId='1' x:Name="CmboxLanguage" Margin="0,99,0,-99"                                                   >
+             <TextBlock Text="English - US"/>
+             <TextBlock Text="Spanish - Spain"/>
+         </ComboBox>
+        <TextBlock x:Name="txtEmail" Text="" FontSize="20" Margin="20,214,0,-24" ></TextBlock>
+        <TextBlock x:Name="txtDate" Text="" Margin="20,253,0,-212" FontSize="20"  />
+    </Grid>
+</Page>
+

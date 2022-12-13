@@ -1,0 +1,1 @@
+D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\C#\Globalization\Globalization.WindowsPhone\Globalization.WindowsPhone.csproj;neutral

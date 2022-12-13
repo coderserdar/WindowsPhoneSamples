@@ -1,0 +1,146 @@
+﻿<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/client/2007" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:vsm="clr-namespace:System.Windows;assembly=System.Windows"
+    xmlns:local="clr-namespace:WPControls">
+
+    <local:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+
+    <Style TargetType="local:Calendar">
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Foreground" Value="{StaticResource PhoneForegroundBrush}"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate  TargetType="local:Calendar">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="{TemplateBinding YearMonthLabel}" FontSize="{StaticResource PhoneFontSizeMediumLarge}" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        <Button 
+                            Content="&lt;" 
+                            Width="100" 
+                            Grid.Column="0"
+                            x:Name="PreviousMonthButton" 
+                            HorizontalAlignment="Left" 
+                            VerticalAlignment="Center" 
+                            Visibility="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=ShowNavigationButtons, Converter={StaticResource BooleanToVisibilityConverter}}"/>
+                        <Button 
+                            Content="&gt;" 
+                            Width="100" 
+                            Grid.Column="2" 
+                            x:Name="NextMonthButton" 
+                            HorizontalAlignment="Right" 
+                            VerticalAlignment="Center" 
+                            Visibility="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=ShowNavigationButtons, Converter={StaticResource BooleanToVisibilityConverter}}"/>
+                        <Grid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" x:Name="ItemsGrid">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Text="{TemplateBinding Sunday}" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1"/>
+                            <TextBlock Text="{TemplateBinding Monday}" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="2"/>
+                            <TextBlock Text="{TemplateBinding Tuesday}" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="3"/>
+                            <TextBlock Text="{TemplateBinding Wednesday}" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="4"/>
+                            <TextBlock Text="{TemplateBinding Thursday}" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="5"/>
+                            <TextBlock Text="{TemplateBinding Friday}" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="6"/>
+                            <TextBlock Text="{TemplateBinding Saturday}" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="7"/>
+                        </Grid>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+    </Style>
+
+    <Style TargetType="local:CalendarItem">
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate  TargetType="local:CalendarItem">
+                    <Grid x:Name="OuterGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                        <Border 
+                            BorderThickness="2"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Stretch"
+                            BorderBrush="{StaticResource PhoneForegroundBrush}">
+                            <Grid Height="60" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Rectangle Grid.RowSpan="2" x:Name="BackgroundRectangle" Fill="{TemplateBinding Background}" />
+                                <TextBlock 
+                                    x:Name="DayNumberBlock"
+                                    Text="{Binding Path=DayNumber, RelativeSource={RelativeSource TemplatedParent}}" 
+                                    Foreground="{TemplateBinding Foreground}" 
+                                    FontWeight="ExtraBold"
+                                    HorizontalAlignment="Left" 
+                                    VerticalAlignment="Top" 
+                                    Margin="4,2,0,0"/>
+                                
+                            </Grid>
+                        </Border>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="local:CalendarWeekItem">
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate  TargetType="local:CalendarWeekItem">
+                    <Grid x:Name="OuterGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                        <Border 
+                            BorderThickness="2"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Stretch"
+                            BorderBrush="{StaticResource PhoneForegroundBrush}">
+                            <Grid Height="60" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Rectangle Grid.RowSpan="2" x:Name="BackgroundRectangle" Fill="{TemplateBinding Background}" />
+                                <TextBlock 
+                                    x:Name="WeekNumberBlock"
+                                    Text="{Binding Path=WeekNumber, RelativeSource={RelativeSource TemplatedParent}}" 
+                                    Foreground="{TemplateBinding Foreground}" 
+                                    FontWeight="ExtraBold"
+                                    HorizontalAlignment="Right" 
+                                    VerticalAlignment="Top" 
+                                    Margin="0,2,2,0"/>
+
+                            </Grid>
+                        </Border>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+</ResourceDictionary>

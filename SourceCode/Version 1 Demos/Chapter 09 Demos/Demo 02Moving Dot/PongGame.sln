@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongGame", "PongGame\PongGame\PongGame.csproj", "{3A2A6CDC-EF04-47D3-9928-71B165935126}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PongGameContent", "PongGame\PongGameContent\PongGameContent.contentproj", "{FEE8109C-C7C0-484D-B42E-1983E13D21BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2A6CDC-EF04-47D3-9928-71B165935126}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{3A2A6CDC-EF04-47D3-9928-71B165935126}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{3A2A6CDC-EF04-47D3-9928-71B165935126}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{3A2A6CDC-EF04-47D3-9928-71B165935126}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{3A2A6CDC-EF04-47D3-9928-71B165935126}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{3A2A6CDC-EF04-47D3-9928-71B165935126}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{FEE8109C-C7C0-484D-B42E-1983E13D21BD}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{FEE8109C-C7C0-484D-B42E-1983E13D21BD}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

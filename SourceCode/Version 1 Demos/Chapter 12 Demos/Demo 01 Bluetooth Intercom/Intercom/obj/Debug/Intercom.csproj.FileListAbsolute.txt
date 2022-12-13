@@ -1,0 +1,42 @@
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\Intercom.dll
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\Intercom.pdb
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\AppManifest.xaml
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\Desktop\final\Intercom\Intercom\Bin\Debug\Intercom_Debug_AnyCPU.xap
+C:\Users\rob\Desktop\final\Intercom\Intercom\obj\Debug\App.g.cs
+C:\Users\rob\Desktop\final\Intercom\Intercom\obj\Debug\MainPage.g.cs
+C:\Users\rob\Desktop\final\Intercom\Intercom\obj\Debug\Intercom.g.resources
+C:\Users\rob\Desktop\final\Intercom\Intercom\obj\Debug\Intercom.Resources.AppResources.resources
+C:\Users\rob\Desktop\final\Intercom\Intercom\obj\Debug\Intercom.csproj.GenerateResource.Cache
+C:\Users\rob\Desktop\final\Intercom\Intercom\obj\Debug\Intercom.dll
+C:\Users\rob\Desktop\final\Intercom\Intercom\obj\Debug\Intercom.pdb
+C:\Users\rob\Desktop\final\Intercom\Intercom\obj\Debug\XapCacheFile.xml
+C:\Users\rob\Desktop\final\Intercom\Intercom\obj\Debug\TalkPage.g.cs
+C:\Users\rob\Desktop\final\Intercom\Intercom\obj\Debug\SearchPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\Intercom.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\Intercom.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\Bin\Debug\Intercom_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\obj\Debug\TalkPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\obj\Debug\SearchPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\obj\Debug\Intercom.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\obj\Debug\Intercom.Resources.AppResources.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\obj\Debug\Intercom.csproj.GenerateResource.Cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\obj\Debug\Intercom.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\obj\Debug\Intercom.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 11 Demos\Demo 01 Bluetooth Intercom\Intercom\obj\Debug\XapCacheFile.xml

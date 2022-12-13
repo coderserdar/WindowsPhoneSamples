@@ -1,0 +1,26 @@
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\Bin\Debug\AddingMachine.xap
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\Rob\Desktop\AddingMachine\AddingMachine\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\Background.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AddingMachine.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AddingMachine.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\Bin\Debug\AddingMachine_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\AddingMachine.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 02 Demos\Demo 01 AddingMachine\AddingMachine\obj\Debug\XapCacheFile.xml

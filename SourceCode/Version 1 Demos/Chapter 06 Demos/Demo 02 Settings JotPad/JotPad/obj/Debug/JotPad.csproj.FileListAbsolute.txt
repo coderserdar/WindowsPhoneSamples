@@ -1,0 +1,39 @@
+C:\Users\Rob\Desktop\JotPad\JotPad\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\JotPad\JotPad\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\JotPad\JotPad\Bin\Debug\JotPad.dll
+C:\Users\Rob\Desktop\JotPad\JotPad\Bin\Debug\JotPad.pdb
+C:\Users\Rob\Desktop\JotPad\JotPad\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\JotPad\JotPad\Bin\Debug\JotPad.xap
+C:\Users\Rob\Desktop\JotPad\JotPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\JotPad\JotPad\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\JotPad\JotPad\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\JotPad\JotPad\obj\Debug\JotPad.g.resources
+C:\Users\Rob\Desktop\JotPad\JotPad\obj\Debug\JotPad.dll
+C:\Users\Rob\Desktop\JotPad\JotPad\obj\Debug\JotPad.pdb
+C:\Users\Rob\Desktop\JotPad\JotPad\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\JotPad.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\JotPad.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\JotPad.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\JotPad.g.resources
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\JotPad.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\JotPad.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\Background.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\JotPad.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\JotPad.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\Bin\Debug\JotPad_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\JotPad.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\JotPad.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\JotPad.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 05 Demos\Demo 02 Settings JotPad\JotPad\obj\Debug\XapCacheFile.xml

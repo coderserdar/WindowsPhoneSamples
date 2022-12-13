@@ -1,0 +1,56 @@
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\Bin\Debug\SalesManagement.dll
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\Bin\Debug\SalesManagement.pdb
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\Bin\Debug\SalesManagement.xap
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\obj\Debug\CustomerDetailPage.g.i.cs
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.g.resources
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.dll
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+C:\Users\Rob\Desktop\SalesManagement\SalesManagement\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\Background.png
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\SalesManagement.dll
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\SalesManagement.pdb
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\SalesManagement.xap
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\App.g.i.cs
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\CustomerDetailPage.g.i.cs
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\SalesManagement.g.resources
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\SalesManagement.dll
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+C:\Users\Rob\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\SalesManagement.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\SalesManagement.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\Bin\Debug\SalesManagement.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\CustomerDetailPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\SalesManagement.g.resources
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\SalesManagement.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\05 Data Management on Windows Phone\Demos\Demo 03 SalesManagement\SalesManagement\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\Bin\Debug\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\Bin\Debug\Background.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\Bin\Debug\SalesManagement.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\Bin\Debug\SalesManagement.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\Bin\Debug\SalesManagement_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\obj\Debug\CustomerDetailPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\obj\Debug\SalesManagement.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\obj\Debug\SalesManagement.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 06 Demos\Demo 01 SalesManagement\SalesManagement\obj\Debug\XapCacheFile.xml

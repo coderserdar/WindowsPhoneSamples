@@ -1,0 +1,11 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="PongGame" EntryPointType="PongGame.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="PongGame" Source="PongGame.dll" />
+    <AssemblyPart x:Name="MonoGame.Framework" Source="MonoGame.Framework.dll" />
+    <AssemblyPart x:Name="SharpDX.Direct3D11" Source="SharpDX.Direct3D11.dll" />
+    <AssemblyPart x:Name="SharpDX" Source="SharpDX.dll" />
+    <AssemblyPart x:Name="SharpDX.XAudio2" Source="SharpDX.XAudio2.dll" />
+    <AssemblyPart x:Name="SharpDX.MediaFoundation" Source="SharpDX.MediaFoundation.dll" />
+    <AssemblyPart x:Name="SharpDX.DXGI" Source="SharpDX.DXGI.dll" />
+  </Deployment.Parts>
+</Deployment>

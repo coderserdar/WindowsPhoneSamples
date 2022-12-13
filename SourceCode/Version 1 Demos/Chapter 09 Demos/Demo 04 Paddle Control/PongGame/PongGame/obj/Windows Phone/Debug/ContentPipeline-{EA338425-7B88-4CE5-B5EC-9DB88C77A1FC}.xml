@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 04 Paddle Control\PongGame\PongGame\bin\Windows Phone\Debug\Content\ball.xnb</Output>
+      <Time>2010-10-26T13:29:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lpaddle.png</Source>
+      <Name>lpaddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 04 Paddle Control\PongGame\PongGame\bin\Windows Phone\Debug\Content\lpaddle.xnb</Output>
+      <Time>2010-10-26T13:29:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rpaddle.png</Source>
+      <Name>rpaddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 04 Paddle Control\PongGame\PongGame\bin\Windows Phone\Debug\Content\rpaddle.xnb</Output>
+      <Time>2010-10-26T13:29:52+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EA338425-7B88-4CE5-B5EC-9DB88C77A1FC}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 04 Paddle Control\PongGame\PongGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 04 Paddle Control\PongGame\PongGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 04 Paddle Control\PongGame\PongGame\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\08 XNA on Windows Phone\Demos\Demo 04 Paddle Control\PongGame\PongGame\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-30T23:31:29.4197747+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,3 @@
+Scale=240
+Language=EN-US
+Language=ES-MX

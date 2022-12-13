@@ -1,0 +1,52 @@
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.dll
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.pdb
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.xap
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.g.resources
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.dll
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.pdb
+C:\Users\Rob\Desktop\PictureDisplay\PictureDisplay\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\Bin\Debug\Background.png
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.dll
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.pdb
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.xap
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\obj\Debug\App.g.i.cs
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.g.resources
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.dll
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.pdb
+C:\Users\Rob\Dropbox\WP7 Curriculum\7 Creating Windows Phone Applications\Demos\Demo 05 PictureDisplay\PictureDisplay\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.g.resources
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\Background.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\Bin\Debug\PictureDisplay.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.csprojResolveAssemblyReference.cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\PictureDisplay.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 12 Demos\Demo 03 PictureDisplay\PictureDisplay\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,29 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="AuthenticationSample.WP80" EntryPointType="AuthenticationSample.WP80.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="AuthenticationSample.WP80" Source="AuthenticationSample.WP80.dll" />
+    <AssemblyPart x:Name="Cimbalino.Phone.Toolkit.Background" Source="Cimbalino.Phone.Toolkit.Background.dll" />
+    <AssemblyPart x:Name="Cimbalino.Phone.Toolkit" Source="Cimbalino.Phone.Toolkit.dll" />
+    <AssemblyPart x:Name="Cimbalino.Phone.Toolkit.Location" Source="Cimbalino.Phone.Toolkit.Location.dll" />
+    <AssemblyPart x:Name="Facebook.Client" Source="Facebook.Client.dll" />
+    <AssemblyPart x:Name="Facebook" Source="Facebook.dll" />
+    <AssemblyPart x:Name="GalaSoft.MvvmLight.Extras.WP8" Source="GalaSoft.MvvmLight.Extras.WP8.dll" />
+    <AssemblyPart x:Name="GalaSoft.MvvmLight.WP8" Source="GalaSoft.MvvmLight.WP8.dll" />
+    <AssemblyPart x:Name="Google.Apis.Auth" Source="Google.Apis.Auth.dll" />
+    <AssemblyPart x:Name="Google.Apis.Auth.PlatformServices" Source="Google.Apis.Auth.PlatformServices.dll" />
+    <AssemblyPart x:Name="Google.Apis.Core" Source="Google.Apis.Core.dll" />
+    <AssemblyPart x:Name="Google.Apis" Source="Google.Apis.dll" />
+    <AssemblyPart x:Name="Google.Apis.Oauth2.v2" Source="Google.Apis.Oauth2.v2.dll" />
+    <AssemblyPart x:Name="Google.Apis.PlatformServices" Source="Google.Apis.PlatformServices.dll" />
+    <AssemblyPart x:Name="Microsoft.Live" Source="Microsoft.Live.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks" Source="Microsoft.Threading.Tasks.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks.Extensions" Source="Microsoft.Threading.Tasks.Extensions.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks.Extensions.Phone" Source="Microsoft.Threading.Tasks.Extensions.Phone.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="System.Net.Http" Source="System.Net.Http.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Extensions" Source="System.Net.Http.Extensions.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Primitives" Source="System.Net.Http.Primitives.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart x:Name="Zlib.Portable" Source="Zlib.Portable.dll" />
+  </Deployment.Parts>
+</Deployment>

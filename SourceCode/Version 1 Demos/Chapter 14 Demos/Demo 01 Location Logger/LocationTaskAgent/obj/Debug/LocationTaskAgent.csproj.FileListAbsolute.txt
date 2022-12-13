@@ -1,0 +1,30 @@
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\LocationTaskAgent\Bin\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\LocationTaskAgent\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\LocationTaskAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\LocationTaskAgent\obj\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Desktop\Demo 3 Complete Captains Log\LocationTaskAgent\obj\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\LocationTaskAgent\Bin\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\LocationTaskAgent\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\LocationTaskAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\LocationTaskAgent\obj\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\LocationTaskAgent\obj\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\LocationTaskAgent\Bin\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\LocationTaskAgent\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\LocationTaskAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\LocationTaskAgent\obj\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Documents\My Dropbox\2011 Jumpstart Workspace\Decks\06 Background Tasks\Demo 1 Location Logging\LocationTaskAgent\obj\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\LocationTaskAgent\Bin\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\LocationTaskAgent\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\LocationTaskAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\LocationTaskAgent\obj\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging\LocationTaskAgent\obj\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\LocationTaskAgent\Bin\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\LocationTaskAgent\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\LocationTaskAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\LocationTaskAgent\obj\Debug\LocationTaskAgent.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\09 Creating Windows Phone Applications\Demos\Demo 1 Location Logging - Threads\LocationTaskAgent\obj\Debug\LocationTaskAgent.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\LocationTaskAgent\Bin\Debug\LocationTaskAgent.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\LocationTaskAgent\Bin\Debug\LocationTaskAgent.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\LocationTaskAgent\obj\Debug\LocationTaskAgent.csprojResolveAssemblyReference.cache
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\LocationTaskAgent\obj\Debug\LocationTaskAgent.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 13 Demos\Demo 01 Location Logger\LocationTaskAgent\obj\Debug\LocationTaskAgent.pdb

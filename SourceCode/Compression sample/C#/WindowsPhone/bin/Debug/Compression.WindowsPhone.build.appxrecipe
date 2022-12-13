@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SERDAR</Machine>
+    <WindowsUser>SerdarPC</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>EF2F1FF4-6D7E-48E2-820E-B97B8813906C</PackageIdentityName>
+    <IntermediateOutputPath>D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\bin\Debug\Compression.WindowsPhone.exe">
+      <PackagePath>Compression.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\Shared\Assets\mediumtile-sdk.png">
+      <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\Shared\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\Shared\Assets\smalltile-Windows-sdk.png">
+      <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\Shared\Assets\smalltile-Phone-sdk.png">
+      <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\Shared\Assets\splash-Windows-sdk.png">
+      <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\Shared\Assets\splash-Phone-sdk.png">
+      <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\Shared\Assets\squaretile-sdk.png">
+      <PackagePath>Assets\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\Shared\Assets\storelogo-sdk.png">
+      <PackagePath>Assets\storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\Shared\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\Shared\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\bin\Debug\Scenario1.xbf">
+      <PackagePath>Scenario1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\bin\Debug\ScenarioList.xbf">
+      <PackagePath>ScenarioList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\bin\Debug\Styles\Styles.xbf">
+      <PackagePath>Styles\Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\bin\Debug\Compression.WindowsPhone.xr.xml">
+      <PackagePath>Compression.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

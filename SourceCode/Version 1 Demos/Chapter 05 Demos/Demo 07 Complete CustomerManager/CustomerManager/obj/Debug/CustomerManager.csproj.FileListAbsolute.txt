@@ -1,0 +1,56 @@
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\Bin\Debug\CustomerManager.dll
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\Bin\Debug\CustomerManager.pdb
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\Bin\Debug\CustomerManager.xap
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager.g.resources
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager.dll
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerDetailPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\Bin\Debug\CustomerManager.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\Bin\Debug\CustomerManager.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\Bin\Debug\CustomerManager.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\obj\Debug\CustomerDetailPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\obj\Debug\CustomerManager.g.resources
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\obj\Debug\CustomerManager.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\CustomerManager\CustomerManager\obj\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\CustomerManager.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\CustomerManager.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\CustomerManager.xap
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\CustomerDetailPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\CustomerManager.g.resources
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\CustomerManager.dll
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\WP7 Course Update\04 User Interface Construction with Silverlight\Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\Background.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\CustomerManager.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\CustomerManager.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\Bin\Debug\CustomerManager_Debug_AnyCPU.xap
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\CustomerDetailPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\CustomerManager.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\CustomerManager.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 04 Demos\Demo 12 Complete CustomerManager\CustomerManager\obj\Debug\XapCacheFile.xml

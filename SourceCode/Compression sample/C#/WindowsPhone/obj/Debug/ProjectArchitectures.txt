@@ -1,0 +1,1 @@
+D:\KodServer\VisualStudioProjeleri\WP8_Ornekleri\Compression sample\C#\WindowsPhone\Compression.WindowsPhone.csproj;neutral

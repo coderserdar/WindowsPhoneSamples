@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongGame", "PongGame\PongGame\PongGame.csproj", "{21CCCB62-4CB5-45C2-97D4-99DDC53D2C40}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PongGameContent", "PongGame\PongGameContent\PongGameContent.contentproj", "{EA338425-7B88-4CE5-B5EC-9DB88C77A1FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CCCB62-4CB5-45C2-97D4-99DDC53D2C40}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{21CCCB62-4CB5-45C2-97D4-99DDC53D2C40}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{21CCCB62-4CB5-45C2-97D4-99DDC53D2C40}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{21CCCB62-4CB5-45C2-97D4-99DDC53D2C40}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{21CCCB62-4CB5-45C2-97D4-99DDC53D2C40}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{21CCCB62-4CB5-45C2-97D4-99DDC53D2C40}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{EA338425-7B88-4CE5-B5EC-9DB88C77A1FC}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{EA338425-7B88-4CE5-B5EC-9DB88C77A1FC}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

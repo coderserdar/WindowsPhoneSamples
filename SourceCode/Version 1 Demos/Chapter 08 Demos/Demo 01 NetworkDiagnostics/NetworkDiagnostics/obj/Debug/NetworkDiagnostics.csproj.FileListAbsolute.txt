@@ -1,0 +1,26 @@
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\ApplicationIcon.png
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\Background.png
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\NetworkDiagnostics.dll
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\NetworkDiagnostics.pdb
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\NetworkDiagnostics.xap
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\App.g.i.cs
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\MainPage.g.i.cs
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\NetworkDiagnostics.g.resources
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\NetworkDiagnostics.dll
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\NetworkDiagnostics.pdb
+C:\Users\Rob\Desktop\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\ApplicationIcon.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\Background.png
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\NetworkDiagnostics.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\NetworkDiagnostics.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\AppManifest.xaml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\obj\Debug\App.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\obj\Debug\MainPage.g.cs
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\obj\Debug\NetworkDiagnostics.g.resources
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\obj\Debug\NetworkDiagnostics.dll
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\obj\Debug\NetworkDiagnostics.pdb
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\obj\Debug\XapCacheFile.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\rob\SkyDrive\Windows Phone 8 Blue Book\Demos\Chapter 07 Demos\Demo 01 NetworkDiagnostics\NetworkDiagnostics\Bin\Debug\NetworkDiagnostics_Debug_AnyCPU.xap

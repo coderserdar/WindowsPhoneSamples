@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\Bin\Debug\WhereAmI_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="27/08/2013 14:07:03">
+  <file source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\obj\Debug\WhereAmI.dll" archivePath="WhereAmI.dll" lastWriteTime="27/08/2013 14:07:02" />
+  <file source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="27/08/2013 08:37:04" />
+  <file source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="27/08/2013 08:37:04" />
+  <file source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="27/08/2013 08:37:04" />
+  <file source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="27/08/2013 08:37:04" />
+  <file source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="27/08/2013 08:37:04" />
+  <file source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="27/08/2013 08:37:10" />
+  <file source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="27/08/2013 08:37:04" />
+  <file source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="27/08/2013 08:37:04" />
+  <file source="C:\Users\rob\Desktop\final\WhereAmI\WhereAmI\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="27/08/2013 08:56:05" />
+</xapCache>
