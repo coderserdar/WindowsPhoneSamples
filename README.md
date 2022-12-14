@@ -29,7 +29,7 @@ These are;
 - *JSON and JavaScript*
 - *Threads* etc.. 
 
-You should use [*Windows Phone 8 SDK*](https://www.microsoft.com/en-us/download/details.aspx?id=35471) and [*Microsoft Visual Studio 2013*](https://download.microsoft.com/download/2/5/5/255DCCB6-F364-4ED8-9758-EF0734CA86B8/vs2013.3_dskexp_ENU.iso)
+You should use [*Windows Phone 8 SDK*](https://www.microsoft.com/en-us/download/details.aspx?id=35471) and [*Microsoft Visual Studio 2013*](https://download.microsoft.com/download/2/5/5/255DCCB6-F364-4ED8-9758-EF0734CA86B8/vs2013.3_dskexp_ENU.iso).
 I was writing my code in *Microsoft Visual Studio 2015* but I suppose that these links will work for you.
 
 Keep with coding...
