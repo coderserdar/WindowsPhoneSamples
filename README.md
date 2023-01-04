@@ -8,7 +8,7 @@ I know that *Windows Phone OS* is no longer alive. But you can use these project
 
 |  Programming Language  |  WP SDK Version  | Development Platform |
 |------------------------|----------------|----------------------|
-|          *C#*          |      *8*       |  *Microsoft Visual Studio 2013*   |
+|          *C#*          |     *7*, *7.1*, *8*       |  *Microsoft Visual Studio 2013*   |
 
 In this repo, there are about 70-80 projects which are about various subjects in *Windows Phone* development
 These are;
